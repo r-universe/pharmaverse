@@ -1,5 +1,45 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/pharmaverse/universe
 	shallow = true
 	branch = HEAD
+[submodule "Tplyr"]
+	path = Tplyr
+	url = https://github.com/atorus-research/Tplyr
+	shallow = true
+	registered = true
+[submodule "xportr"]
+	path = xportr
+	url = https://github.com/atorus-research/xportr
+	shallow = true
+	registered = true
+[submodule "pharmaRTF"]
+	path = pharmaRTF
+	url = https://github.com/atorus-research/pharmaRTF
+	shallow = true
+	registered = true
+[submodule "metacore"]
+	path = metacore
+	url = https://github.com/atorus-research/metacore
+	shallow = true
+	registered = true
+[submodule "rtables"]
+	path = rtables
+	url = https://github.com/Roche/rtables
+	shallow = true
+	registered = true
+[submodule "pkglite"]
+	path = pkglite
+	url = https://github.com/Merck/pkglite
+	shallow = true
+	registered = true
+[submodule "r2rtf"]
+	path = r2rtf
+	url = https://github.com/Merck/r2rtf
+	shallow = true
+	registered = true
+[submodule "synthetic.cdisc.data"]
+	path = synthetic.cdisc.data
+	url = https://github.com/Roche/synthetic.cdisc.data
+	shallow = true
+	registered = true

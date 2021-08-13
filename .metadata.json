@@ -1,0 +1,31 @@
+[
+  {
+    "package": "Tplyr",
+    "oncran": true
+  },
+  {
+    "package": "xportr"
+  },
+  {
+    "package": "pharmaRTF",
+    "oncran": true
+  },
+  {
+    "package": "metacore"
+  },
+  {
+    "package": "rtables",
+    "oncran": true
+  },
+  {
+    "package": "pkglite",
+    "oncran": true
+  },
+  {
+    "package": "r2rtf",
+    "oncran": true
+  },
+  {
+    "package": "synthetic.cdisc.data"
+  }
+]
