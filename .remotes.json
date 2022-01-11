@@ -1,0 +1,8 @@
+[
+  {
+    "package": "admiral.test",
+    "url": "https://github.com/Roche-GSK/admiral.test",
+    "via": ["admiral"],
+    "from": "admiral"
+  }
+]
