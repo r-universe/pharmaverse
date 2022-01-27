@@ -58,3 +58,13 @@
 	url = https://github.com/Roche-GSK/admiral.test
 	shallow = true
 	registered = false
+[submodule "hardhat"]
+	path = hardhat
+	url = https://github.com/tidymodels/hardhat
+	shallow = true
+	registered = false
+[submodule "tidycmprsk"]
+	path = tidycmprsk
+	url = https://github.com/MSKCC-Epi-Bio/tidycmprsk
+	shallow = true
+	registered = false

@@ -4,5 +4,17 @@
     "url": "https://github.com/Roche-GSK/admiral.test",
     "via": ["admiral"],
     "from": "admiral"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["visR"],
+    "from": "visR"
+  },
+  {
+    "package": "tidycmprsk",
+    "url": "https://github.com/MSKCC-Epi-Bio/tidycmprsk",
+    "via": ["visR"],
+    "from": "visR"
   }
 ]
