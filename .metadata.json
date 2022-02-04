@@ -1,5 +1,12 @@
 [
   {
+    "package": "admiral"
+  },
+  {
+    "package": "pharmaRTF",
+    "oncran": true
+  },
+  {
     "package": "Tplyr",
     "oncran": true
   },
@@ -18,8 +25,11 @@
     "oncran": true
   },
   {
-    "package": "pkglite",
+    "package": "rtables",
     "oncran": true
+  },
+  {
+    "package": "timber"
   },
   {
     "package": "r2rtf",
@@ -27,5 +37,9 @@
   },
   {
     "package": "synthetic.cdisc.data"
+  },
+  {
+    "package": "visR",
+    "oncran": true
   }
 ]

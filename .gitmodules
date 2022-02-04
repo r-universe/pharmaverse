@@ -3,6 +3,16 @@
 	url = https://github.com/pharmaverse/universe
 	shallow = true
 	branch = HEAD
+[submodule "admiral"]
+	path = admiral
+	url = https://github.com/pharmaverse/admiral
+	shallow = true
+	registered = true
+[submodule "pharmaRTF"]
+	path = pharmaRTF
+	url = https://github.com/atorus-research/pharmaRTF
+	shallow = true
+	registered = true
 [submodule "Tplyr"]
 	path = Tplyr
 	url = https://github.com/atorus-research/Tplyr
@@ -11,11 +21,6 @@
 [submodule "xportr"]
 	path = xportr
 	url = https://github.com/atorus-research/xportr
-	shallow = true
-	registered = true
-[submodule "pharmaRTF"]
-	path = pharmaRTF
-	url = https://github.com/atorus-research/pharmaRTF
 	shallow = true
 	registered = true
 [submodule "metacore"]
@@ -28,9 +33,9 @@
 	url = https://github.com/Roche/rtables
 	shallow = true
 	registered = true
-[submodule "pkglite"]
-	path = pkglite
-	url = https://github.com/Merck/pkglite
+[submodule "timber"]
+	path = timber
+	url = https://github.com/atorus-research/timber
 	shallow = true
 	registered = true
 [submodule "r2rtf"]
@@ -41,5 +46,10 @@
 [submodule "synthetic.cdisc.data"]
 	path = synthetic.cdisc.data
 	url = https://github.com/Roche/synthetic.cdisc.data
+	shallow = true
+	registered = true
+[submodule "visR"]
+	path = visR
+	url = https://github.com/openpharma/visR
 	shallow = true
 	registered = true
