@@ -308,3 +308,25 @@
 	url = https://github.com/atorus-research/xportr
 	shallow = true
 	registered = true
+[submodule "hal9001"]
+	path = hal9001
+	url = https://github.com/tlverse/hal9001
+	shallow = true
+	branch = devel
+	registered = false
+[submodule "haldensify"]
+	path = haldensify
+	url = https://github.com/nhejazi/haldensify
+	shallow = true
+	registered = false
+[submodule "origami"]
+	path = origami
+	url = https://github.com/tlverse/origami
+	shallow = true
+	registered = false
+[submodule "sl3"]
+	path = sl3
+	url = https://github.com/tlverse/sl3
+	shallow = true
+	branch = v1.4.4
+	registered = false
