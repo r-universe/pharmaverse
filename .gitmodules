@@ -53,11 +53,6 @@
 	url = https://github.com/openpharma/visR
 	shallow = true
 	registered = true
-[submodule "admiral.test"]
-	path = admiral.test
-	url = https://github.com/Roche-GSK/admiral.test
-	shallow = true
-	registered = false
 [submodule "hardhat"]
 	path = hardhat
 	url = https://github.com/tidymodels/hardhat

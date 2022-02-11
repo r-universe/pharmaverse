@@ -1,11 +1,5 @@
 [
   {
-    "package": "admiral.test",
-    "url": "https://github.com/Roche-GSK/admiral.test",
-    "via": ["admiral"],
-    "from": "admiral"
-  },
-  {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
     "via": ["visR"],
