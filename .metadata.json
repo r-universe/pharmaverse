@@ -18,7 +18,8 @@
     "oncran": true
   },
   {
-    "package": "metacore"
+    "package": "metacore",
+    "oncran": false
   },
   {
     "package": "rtables",
