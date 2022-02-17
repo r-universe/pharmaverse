@@ -1,6 +1,7 @@
 [
   {
-    "package": "admiral"
+    "package": "admiral",
+    "oncran": false
   },
   {
     "package": "pharmaRTF",
