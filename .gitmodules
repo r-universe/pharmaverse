@@ -28,6 +28,11 @@
 	url = https://github.com/atorus-research/metacore
 	shallow = true
 	registered = true
+[submodule "metatools"]
+	path = metatools
+	url = https://github.com/pharmaverse/metatools
+	shallow = true
+	registered = true
 [submodule "rtables"]
 	path = rtables
 	url = https://github.com/Roche/rtables

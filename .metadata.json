@@ -1,7 +1,7 @@
 [
   {
     "package": "admiral",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "pharmaRTF",
@@ -12,7 +12,8 @@
     "oncran": true
   },
   {
-    "package": "xportr"
+    "package": "xportr",
+    "oncran": true
   },
   {
     "package": "pharmaRTF",
@@ -23,7 +24,7 @@
     "oncran": false
   },
   {
-    "package": "rtables",
+    "package": "metatools",
     "oncran": true
   },
   {
@@ -41,7 +42,6 @@
     "package": "synthetic.cdisc.data"
   },
   {
-    "package": "visR",
-    "oncran": true
+    "package": "visR"
   }
 ]
