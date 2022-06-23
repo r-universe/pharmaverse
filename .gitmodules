@@ -38,9 +38,9 @@
 	url = https://github.com/Roche/rtables
 	shallow = true
 	registered = true
-[submodule "timber"]
-	path = timber
-	url = https://github.com/atorus-research/timber
+[submodule "logrx"]
+	path = logrx
+	url = https://github.com/atorus-research/logrx
 	shallow = true
 	registered = true
 [submodule "r2rtf"]
@@ -56,5 +56,125 @@
 [submodule "visR"]
 	path = visR
 	url = https://github.com/openpharma/visR
+	shallow = true
+	registered = true
+[submodule "scda.2021"]
+	path = scda.2021
+	url = https://github.com/insightsengineering/scda.2021
+	shallow = true
+	registered = true
+[submodule "scda.2022"]
+	path = scda.2022
+	url = https://github.com/insightsengineering/scda.2022
+	shallow = true
+	registered = true
+[submodule "formatters"]
+	path = formatters
+	url = https://github.com/insightsengineering/formatters
+	shallow = true
+	registered = true
+[submodule "ggplot2.utils"]
+	path = ggplot2.utils
+	url = https://github.com/insightsengineering/ggplot2.utils
+	shallow = true
+	registered = true
+[submodule "hermes"]
+	path = hermes
+	url = https://github.com/insightsengineering/hermes
+	shallow = true
+	registered = true
+[submodule "teal.logger"]
+	path = teal.logger
+	url = https://github.com/insightsengineering/teal.logger
+	shallow = true
+	registered = true
+[submodule "scda"]
+	path = scda
+	url = https://github.com/insightsengineering/scda
+	shallow = true
+	registered = true
+[submodule "hermes.roche"]
+	path = hermes.roche
+	url = https://github.com/insightsengineering/hermes.roche
+	shallow = true
+	registered = true
+[submodule "goshawk"]
+	path = goshawk
+	url = https://github.com/insightsengineering/goshawk
+	shallow = true
+	registered = true
+[submodule "teal.data"]
+	path = teal.data
+	url = https://github.com/insightsengineering/teal.data
+	shallow = true
+	registered = true
+[submodule "teal.reporter"]
+	path = teal.reporter
+	url = https://github.com/insightsengineering/teal.reporter
+	shallow = true
+	registered = true
+[submodule "teal.widgets"]
+	path = teal.widgets
+	url = https://github.com/insightsengineering/teal.widgets
+	shallow = true
+	registered = true
+[submodule "tern"]
+	path = tern
+	url = https://github.com/insightsengineering/tern
+	shallow = true
+	registered = true
+[submodule "teal.code"]
+	path = teal.code
+	url = https://github.com/insightsengineering/teal.code
+	shallow = true
+	registered = true
+[submodule "teal.slice"]
+	path = teal.slice
+	url = https://github.com/insightsengineering/teal.slice
+	shallow = true
+	registered = true
+[submodule "osprey"]
+	path = osprey
+	url = https://github.com/insightsengineering/osprey
+	shallow = true
+	registered = true
+[submodule "tern.mmrm"]
+	path = tern.mmrm
+	url = https://github.com/insightsengineering/tern.mmrm
+	shallow = true
+	registered = true
+[submodule "teal.transform"]
+	path = teal.transform
+	url = https://github.com/insightsengineering/teal.transform
+	shallow = true
+	registered = true
+[submodule "teal"]
+	path = teal
+	url = https://github.com/insightsengineering/teal
+	shallow = true
+	registered = true
+[submodule "teal.goshawk"]
+	path = teal.goshawk
+	url = https://github.com/insightsengineering/teal.goshawk
+	shallow = true
+	registered = true
+[submodule "teal.modules.clinical"]
+	path = teal.modules.clinical
+	url = https://github.com/insightsengineering/teal.modules.clinical
+	shallow = true
+	registered = true
+[submodule "teal.modules.general"]
+	path = teal.modules.general
+	url = https://github.com/insightsengineering/teal.modules.general
+	shallow = true
+	registered = true
+[submodule "teal.modules.hermes"]
+	path = teal.modules.hermes
+	url = https://github.com/insightsengineering/teal.modules.hermes
+	shallow = true
+	registered = true
+[submodule "teal.osprey"]
+	path = teal.osprey
+	url = https://github.com/insightsengineering/teal.osprey
 	shallow = true
 	registered = true

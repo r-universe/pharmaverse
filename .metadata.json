@@ -32,7 +32,8 @@
     "oncran": true
   },
   {
-    "package": "timber"
+    "package": "logrx",
+    "oncran": true
   },
   {
     "package": "r2rtf",
@@ -43,5 +44,82 @@
   },
   {
     "package": "visR"
+  },
+  {
+    "package": "scda.2021"
+  },
+  {
+    "package": "scda.2022"
+  },
+  {
+    "package": "formatters",
+    "oncran": true
+  },
+  {
+    "package": "ggplot2.utils"
+  },
+  {
+    "package": "hermes"
+  },
+  {
+    "package": "teal.logger"
+  },
+  {
+    "package": "scda"
+  },
+  {
+    "package": "rtables",
+    "oncran": false
+  },
+  {
+    "package": "hermes.roche"
+  },
+  {
+    "package": "goshawk"
+  },
+  {
+    "package": "teal.data"
+  },
+  {
+    "package": "teal.reporter"
+  },
+  {
+    "package": "teal.widgets"
+  },
+  {
+    "package": "tern"
+  },
+  {
+    "package": "teal.code"
+  },
+  {
+    "package": "teal.slice"
+  },
+  {
+    "package": "osprey"
+  },
+  {
+    "package": "tern.mmrm"
+  },
+  {
+    "package": "teal.transform"
+  },
+  {
+    "package": "teal"
+  },
+  {
+    "package": "teal.goshawk"
+  },
+  {
+    "package": "teal.modules.clinical"
+  },
+  {
+    "package": "teal.modules.general"
+  },
+  {
+    "package": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.osprey"
   }
 ]
