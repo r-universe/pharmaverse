@@ -72,9 +72,6 @@
     "oncran": false
   },
   {
-    "package": "hermes.roche"
-  },
-  {
     "package": "goshawk"
   },
   {

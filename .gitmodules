@@ -93,11 +93,6 @@
 	url = https://github.com/insightsengineering/scda
 	shallow = true
 	registered = true
-[submodule "hermes.roche"]
-	path = hermes.roche
-	url = https://github.com/insightsengineering/hermes.roche
-	shallow = true
-	registered = true
 [submodule "goshawk"]
 	path = goshawk
 	url = https://github.com/insightsengineering/goshawk
