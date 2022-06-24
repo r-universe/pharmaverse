@@ -43,7 +43,8 @@
     "package": "synthetic.cdisc.data"
   },
   {
-    "package": "visR"
+    "package": "visR",
+    "oncran": false
   },
   {
     "package": "scda.2021"
