@@ -44,7 +44,7 @@
   },
   {
     "package": "visR",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "scda.2021"
