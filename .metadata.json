@@ -119,5 +119,14 @@
   },
   {
     "package": "teal.osprey"
+  },
+  {
+    "package": "nestcolor"
+  },
+  {
+    "package": "mmrm"
+  },
+  {
+    "package": "respectables"
   }
 ]

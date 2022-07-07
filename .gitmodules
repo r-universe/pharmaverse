@@ -177,4 +177,14 @@
 	path = nestcolor
 	url = https://github.com/insightsengineering/nestcolor
 	shallow = true
-	registered = false
+	registered = true
+[submodule "mmrm"]
+	path = mmrm
+	url = https://github.com/openpharma/mmrm
+	shallow = true
+	registered = true
+[submodule "respectables"]
+	path = respectables
+	url = https://github.com/Roche/respectables
+	shallow = true
+	registered = true
