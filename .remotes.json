@@ -626,6 +626,12 @@
   {
     "package": "teal.widgets",
     "url": "https://github.com/insightsengineering/teal.widgets",
+    "via": ["teal.code"],
+    "from": "teal.code"
+  },
+  {
+    "package": "teal.widgets",
+    "url": "https://github.com/insightsengineering/teal.widgets",
     "via": ["teal.modules.clinical", "teal.transform", "teal.slice"],
     "from": "teal.modules.clinical"
   },
