@@ -173,3 +173,8 @@
 	url = https://github.com/insightsengineering/teal.osprey
 	shallow = true
 	registered = true
+[submodule "nestcolor"]
+	path = nestcolor
+	url = https://github.com/insightsengineering/nestcolor
+	shallow = true
+	registered = false
