@@ -20,6 +20,18 @@
   {
     "package": "scda",
     "url": "https://github.com/insightsengineering/scda",
+    "via": ["teal.slice"],
+    "from": "teal.slice"
+  },
+  {
+    "package": "scda",
+    "url": "https://github.com/insightsengineering/scda",
+    "via": ["teal.slice", "teal.data"],
+    "from": "teal.slice"
+  },
+  {
+    "package": "scda",
+    "url": "https://github.com/insightsengineering/scda",
     "via": ["tern"],
     "from": "tern"
   },
@@ -56,6 +68,30 @@
   {
     "package": "scda.2021",
     "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.slice"],
+    "from": "teal.slice"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.slice", "scda"],
+    "from": "teal.slice"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.slice", "teal.data"],
+    "from": "teal.slice"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.slice", "teal.data", "scda"],
+    "from": "teal.slice"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
     "via": ["tern", "scda"],
     "from": "tern"
   },
@@ -80,6 +116,18 @@
   {
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.slice", "scda"],
+    "from": "teal.slice"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.slice", "teal.data", "scda"],
+    "from": "teal.slice"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["tern"],
     "from": "tern"
   },
@@ -90,9 +138,33 @@
     "from": "tern"
   },
   {
+    "package": "teal.data",
+    "url": "https://github.com/insightsengineering/teal.data",
+    "via": ["teal.slice"],
+    "from": "teal.slice"
+  },
+  {
     "package": "teal.logger",
     "url": "https://github.com/insightsengineering/teal.logger",
     "via": ["teal.data"],
     "from": "teal.data"
+  },
+  {
+    "package": "teal.logger",
+    "url": "https://github.com/insightsengineering/teal.logger",
+    "via": ["teal.slice", "teal.data"],
+    "from": "teal.slice"
+  },
+  {
+    "package": "teal.logger",
+    "url": "https://github.com/insightsengineering/teal.logger",
+    "via": ["teal.slice"],
+    "from": "teal.slice"
+  },
+  {
+    "package": "teal.widgets",
+    "url": "https://github.com/insightsengineering/teal.widgets",
+    "via": ["teal.slice"],
+    "from": "teal.slice"
   }
 ]
