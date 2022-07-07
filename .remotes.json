@@ -36,6 +36,12 @@
     "from": "teal.data"
   },
   {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.data", "scda"],
+    "from": "teal.data"
+  },
+  {
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["goshawk", "scda"],
@@ -46,6 +52,12 @@
     "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["scda"],
     "from": "scda"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.data", "scda"],
+    "from": "teal.data"
   },
   {
     "package": "teal.logger",
