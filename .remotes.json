@@ -1,5 +1,11 @@
 [
   {
+    "package": "hermes",
+    "url": "https://github.com/insightsengineering/hermes",
+    "via": ["teal.modules.hermes"],
+    "from": "teal.modules.hermes"
+  },
+  {
     "package": "nestcolor",
     "url": "https://github.com/insightsengineering/nestcolor",
     "via": ["osprey", "tern"],
@@ -28,6 +34,12 @@
     "url": "https://github.com/insightsengineering/nestcolor",
     "via": ["teal.modules.general", "tern"],
     "from": "teal.modules.general"
+  },
+  {
+    "package": "nestcolor",
+    "url": "https://github.com/insightsengineering/nestcolor",
+    "via": ["teal.modules.hermes", "tern"],
+    "from": "teal.modules.hermes"
   },
   {
     "package": "nestcolor",
@@ -202,6 +214,24 @@
     "url": "https://github.com/insightsengineering/scda",
     "via": ["teal.modules.general", "tern"],
     "from": "teal.modules.general"
+  },
+  {
+    "package": "scda",
+    "url": "https://github.com/insightsengineering/scda",
+    "via": ["teal.modules.hermes"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda",
+    "url": "https://github.com/insightsengineering/scda",
+    "via": ["teal.modules.hermes", "teal.data"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda",
+    "url": "https://github.com/insightsengineering/scda",
+    "via": ["teal.modules.hermes", "tern"],
+    "from": "teal.modules.hermes"
   },
   {
     "package": "scda",
@@ -554,6 +584,30 @@
   {
     "package": "scda.2021",
     "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.modules.hermes", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.modules.hermes", "teal.data"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.modules.hermes", "teal.data", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.modules.hermes", "tern", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
     "via": ["teal.slice"],
     "from": "teal.slice"
   },
@@ -836,6 +890,30 @@
   {
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.hermes", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.hermes", "teal.data", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.hermes", "tern"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.hermes", "tern", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["teal.slice", "scda"],
     "from": "teal.slice"
   },
@@ -910,6 +988,12 @@
     "url": "https://github.com/insightsengineering/teal",
     "via": ["teal.modules.general"],
     "from": "teal.modules.general"
+  },
+  {
+    "package": "teal",
+    "url": "https://github.com/insightsengineering/teal",
+    "via": ["teal.modules.hermes"],
+    "from": "teal.modules.hermes"
   },
   {
     "package": "teal.code",
@@ -1006,6 +1090,12 @@
     "url": "https://github.com/insightsengineering/teal.data",
     "via": ["teal.modules.general", "teal.transform", "teal.slice"],
     "from": "teal.modules.general"
+  },
+  {
+    "package": "teal.data",
+    "url": "https://github.com/insightsengineering/teal.data",
+    "via": ["teal.modules.hermes"],
+    "from": "teal.modules.hermes"
   },
   {
     "package": "teal.data",
@@ -1144,6 +1234,18 @@
     "url": "https://github.com/insightsengineering/teal.logger",
     "via": ["teal.modules.general", "teal.transform", "teal.slice"],
     "from": "teal.modules.general"
+  },
+  {
+    "package": "teal.logger",
+    "url": "https://github.com/insightsengineering/teal.logger",
+    "via": ["teal.modules.hermes", "teal.data"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.logger",
+    "url": "https://github.com/insightsengineering/teal.logger",
+    "via": ["teal.modules.hermes"],
+    "from": "teal.modules.hermes"
   },
   {
     "package": "teal.logger",
@@ -1340,6 +1442,12 @@
   {
     "package": "teal.widgets",
     "url": "https://github.com/insightsengineering/teal.widgets",
+    "via": ["teal.modules.hermes"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.widgets",
+    "url": "https://github.com/insightsengineering/teal.widgets",
     "via": ["teal.slice"],
     "from": "teal.slice"
   },
@@ -1384,6 +1492,12 @@
     "url": "https://github.com/insightsengineering/tern",
     "via": ["teal.modules.general"],
     "from": "teal.modules.general"
+  },
+  {
+    "package": "tern",
+    "url": "https://github.com/insightsengineering/tern",
+    "via": ["teal.modules.hermes"],
+    "from": "teal.modules.hermes"
   },
   {
     "package": "tern",
