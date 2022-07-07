@@ -458,6 +458,54 @@
   {
     "package": "scda",
     "url": "https://github.com/insightsengineering/scda",
+    "via": ["teal.modules.hermes", "teal"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda",
+    "url": "https://github.com/insightsengineering/scda",
+    "via": ["teal.modules.hermes", "teal", "teal.data"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda",
+    "url": "https://github.com/insightsengineering/scda",
+    "via": ["teal.modules.hermes", "teal", "teal.slice"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda",
+    "url": "https://github.com/insightsengineering/scda",
+    "via": ["teal.modules.hermes", "teal", "teal.slice", "teal.data"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda",
+    "url": "https://github.com/insightsengineering/scda",
+    "via": ["teal.modules.hermes", "teal", "teal.transform"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda",
+    "url": "https://github.com/insightsengineering/scda",
+    "via": ["teal.modules.hermes", "teal", "teal.transform", "teal.data"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda",
+    "url": "https://github.com/insightsengineering/scda",
+    "via": ["teal.modules.hermes", "teal", "teal.transform", "teal.slice"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda",
+    "url": "https://github.com/insightsengineering/scda",
+    "via": ["teal.modules.hermes", "teal", "teal.transform", "teal.slice", "teal.data"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda",
+    "url": "https://github.com/insightsengineering/scda",
     "via": ["teal.modules.hermes", "tern"],
     "from": "teal.modules.hermes"
   },
@@ -1244,6 +1292,102 @@
   {
     "package": "scda.2021",
     "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.modules.hermes", "teal"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.modules.hermes", "teal", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.modules.hermes", "teal", "teal.data"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.modules.hermes", "teal", "teal.data", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.modules.hermes", "teal", "teal.slice"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.modules.hermes", "teal", "teal.slice", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.modules.hermes", "teal", "teal.slice", "teal.data"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.modules.hermes", "teal", "teal.slice", "teal.data", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.modules.hermes", "teal", "teal.transform"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.modules.hermes", "teal", "teal.transform", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.modules.hermes", "teal", "teal.transform", "teal.data"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.modules.hermes", "teal", "teal.transform", "teal.data", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.modules.hermes", "teal", "teal.transform", "teal.slice"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.modules.hermes", "teal", "teal.transform", "teal.slice", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.modules.hermes", "teal", "teal.transform", "teal.slice", "teal.data"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.modules.hermes", "teal", "teal.transform", "teal.slice", "teal.data", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
     "via": ["teal.modules.hermes", "tern", "scda"],
     "from": "teal.modules.hermes"
   },
@@ -1784,6 +1928,54 @@
   {
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.hermes", "teal", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.hermes", "teal", "teal.data", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.hermes", "teal", "teal.slice", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.hermes", "teal", "teal.slice", "teal.data", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.hermes", "teal", "teal.transform", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.hermes", "teal", "teal.transform", "teal.data", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.hermes", "teal", "teal.transform", "teal.slice", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.hermes", "teal", "teal.transform", "teal.slice", "teal.data", "scda"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["teal.modules.hermes", "tern"],
     "from": "teal.modules.hermes"
   },
@@ -2012,6 +2204,18 @@
   {
     "package": "teal.code",
     "url": "https://github.com/insightsengineering/teal.code",
+    "via": ["teal.modules.hermes", "teal"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.code",
+    "url": "https://github.com/insightsengineering/teal.code",
+    "via": ["teal.modules.hermes", "teal", "teal.transform"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.code",
+    "url": "https://github.com/insightsengineering/teal.code",
     "via": ["teal.osprey"],
     "from": "teal.osprey"
   },
@@ -2175,6 +2379,30 @@
     "package": "teal.data",
     "url": "https://github.com/insightsengineering/teal.data",
     "via": ["teal.modules.hermes"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.data",
+    "url": "https://github.com/insightsengineering/teal.data",
+    "via": ["teal.modules.hermes", "teal"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.data",
+    "url": "https://github.com/insightsengineering/teal.data",
+    "via": ["teal.modules.hermes", "teal", "teal.slice"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.data",
+    "url": "https://github.com/insightsengineering/teal.data",
+    "via": ["teal.modules.hermes", "teal", "teal.transform"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.data",
+    "url": "https://github.com/insightsengineering/teal.data",
+    "via": ["teal.modules.hermes", "teal", "teal.transform", "teal.slice"],
     "from": "teal.modules.hermes"
   },
   {
@@ -2528,6 +2756,54 @@
   {
     "package": "teal.logger",
     "url": "https://github.com/insightsengineering/teal.logger",
+    "via": ["teal.modules.hermes", "teal", "teal.data"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.logger",
+    "url": "https://github.com/insightsengineering/teal.logger",
+    "via": ["teal.modules.hermes", "teal"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.logger",
+    "url": "https://github.com/insightsengineering/teal.logger",
+    "via": ["teal.modules.hermes", "teal", "teal.slice", "teal.data"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.logger",
+    "url": "https://github.com/insightsengineering/teal.logger",
+    "via": ["teal.modules.hermes", "teal", "teal.slice"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.logger",
+    "url": "https://github.com/insightsengineering/teal.logger",
+    "via": ["teal.modules.hermes", "teal", "teal.transform", "teal.data"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.logger",
+    "url": "https://github.com/insightsengineering/teal.logger",
+    "via": ["teal.modules.hermes", "teal", "teal.transform"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.logger",
+    "url": "https://github.com/insightsengineering/teal.logger",
+    "via": ["teal.modules.hermes", "teal", "teal.transform", "teal.slice", "teal.data"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.logger",
+    "url": "https://github.com/insightsengineering/teal.logger",
+    "via": ["teal.modules.hermes", "teal", "teal.transform", "teal.slice"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.logger",
+    "url": "https://github.com/insightsengineering/teal.logger",
     "via": ["teal.osprey", "teal.data"],
     "from": "teal.osprey"
   },
@@ -2616,6 +2892,12 @@
     "from": "teal.modules.general"
   },
   {
+    "package": "teal.reporter",
+    "url": "https://github.com/insightsengineering/teal.reporter",
+    "via": ["teal.modules.hermes", "teal"],
+    "from": "teal.modules.hermes"
+  },
+  {
     "package": "teal.slice",
     "url": "https://github.com/insightsengineering/teal.slice",
     "via": ["teal"],
@@ -2690,6 +2972,18 @@
   {
     "package": "teal.slice",
     "url": "https://github.com/insightsengineering/teal.slice",
+    "via": ["teal.modules.hermes", "teal"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.slice",
+    "url": "https://github.com/insightsengineering/teal.slice",
+    "via": ["teal.modules.hermes", "teal", "teal.transform"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.slice",
+    "url": "https://github.com/insightsengineering/teal.slice",
     "via": ["teal.transform"],
     "from": "teal.transform"
   },
@@ -2734,6 +3028,12 @@
     "url": "https://github.com/insightsengineering/teal.transform",
     "via": ["teal.modules.general", "teal"],
     "from": "teal.modules.general"
+  },
+  {
+    "package": "teal.transform",
+    "url": "https://github.com/insightsengineering/teal.transform",
+    "via": ["teal.modules.hermes", "teal"],
+    "from": "teal.modules.hermes"
   },
   {
     "package": "teal.widgets",
@@ -2985,6 +3285,42 @@
     "package": "teal.widgets",
     "url": "https://github.com/insightsengineering/teal.widgets",
     "via": ["teal.modules.hermes"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.widgets",
+    "url": "https://github.com/insightsengineering/teal.widgets",
+    "via": ["teal.modules.hermes", "teal", "teal.code"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.widgets",
+    "url": "https://github.com/insightsengineering/teal.widgets",
+    "via": ["teal.modules.hermes", "teal", "teal.slice"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.widgets",
+    "url": "https://github.com/insightsengineering/teal.widgets",
+    "via": ["teal.modules.hermes", "teal", "teal.transform", "teal.code"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.widgets",
+    "url": "https://github.com/insightsengineering/teal.widgets",
+    "via": ["teal.modules.hermes", "teal", "teal.transform", "teal.slice"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.widgets",
+    "url": "https://github.com/insightsengineering/teal.widgets",
+    "via": ["teal.modules.hermes", "teal", "teal.transform"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.widgets",
+    "url": "https://github.com/insightsengineering/teal.widgets",
+    "via": ["teal.modules.hermes", "teal"],
     "from": "teal.modules.hermes"
   },
   {
