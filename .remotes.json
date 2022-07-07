@@ -6,6 +6,12 @@
     "from": "teal.modules.hermes"
   },
   {
+    "package": "mmrm",
+    "url": "https://github.com/openpharma/mmrm",
+    "via": ["tern.mmrm"],
+    "from": "tern.mmrm"
+  },
+  {
     "package": "nestcolor",
     "url": "https://github.com/insightsengineering/nestcolor",
     "via": ["osprey", "tern"],
