@@ -2324,6 +2324,12 @@
   {
     "package": "teal.widgets",
     "url": "https://github.com/insightsengineering/teal.widgets",
+    "via": ["teal.transform", "teal.code"],
+    "from": "teal.transform"
+  },
+  {
+    "package": "teal.widgets",
+    "url": "https://github.com/insightsengineering/teal.widgets",
     "via": ["teal.transform", "teal.slice"],
     "from": "teal.transform"
   },
