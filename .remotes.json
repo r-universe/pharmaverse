@@ -72,6 +72,12 @@
     "from": "teal.osprey"
   },
   {
+    "package": "respectables",
+    "url": "https://github.com/Roche/respectables",
+    "via": ["synthetic.cdisc.data"],
+    "from": "synthetic.cdisc.data"
+  },
+  {
     "package": "scda",
     "url": "https://github.com/insightsengineering/scda",
     "via": ["goshawk"],
