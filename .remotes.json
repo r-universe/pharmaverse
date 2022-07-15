@@ -3176,6 +3176,12 @@
   {
     "package": "teal.reporter",
     "url": "https://github.com/insightsengineering/teal.reporter",
+    "via": ["teal.modules.hermes"],
+    "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.reporter",
+    "url": "https://github.com/insightsengineering/teal.reporter",
     "via": ["teal.modules.hermes", "teal"],
     "from": "teal.modules.hermes"
   },
