@@ -68,12 +68,6 @@
   {
     "package": "nestcolor",
     "url": "https://github.com/insightsengineering/nestcolor",
-    "via": ["tern"],
-    "from": "tern"
-  },
-  {
-    "package": "nestcolor",
-    "url": "https://github.com/insightsengineering/nestcolor",
     "via": ["tern.mmrm", "tern"],
     "from": "tern.mmrm"
   },
