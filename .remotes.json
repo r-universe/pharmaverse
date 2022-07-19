@@ -32,18 +32,6 @@
   {
     "package": "nestcolor",
     "url": "https://github.com/insightsengineering/nestcolor",
-    "via": ["teal.modules.clinical", "tern.mmrm", "tern"],
-    "from": "teal.modules.clinical"
-  },
-  {
-    "package": "nestcolor",
-    "url": "https://github.com/insightsengineering/nestcolor",
-    "via": ["teal.modules.clinical", "tern"],
-    "from": "teal.modules.clinical"
-  },
-  {
-    "package": "nestcolor",
-    "url": "https://github.com/insightsengineering/nestcolor",
     "via": ["teal.modules.general", "tern"],
     "from": "teal.modules.general"
   },
