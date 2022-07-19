@@ -44,18 +44,6 @@
   {
     "package": "nestcolor",
     "url": "https://github.com/insightsengineering/nestcolor",
-    "via": ["teal.osprey", "osprey", "tern"],
-    "from": "teal.osprey"
-  },
-  {
-    "package": "nestcolor",
-    "url": "https://github.com/insightsengineering/nestcolor",
-    "via": ["teal.osprey", "tern"],
-    "from": "teal.osprey"
-  },
-  {
-    "package": "nestcolor",
-    "url": "https://github.com/insightsengineering/nestcolor",
     "via": ["tern.mmrm", "tern"],
     "from": "tern.mmrm"
   },
@@ -3166,6 +3154,12 @@
     "url": "https://github.com/insightsengineering/teal.reporter",
     "via": ["teal.modules.hermes", "teal"],
     "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.reporter",
+    "url": "https://github.com/insightsengineering/teal.reporter",
+    "via": ["teal.osprey"],
+    "from": "teal.osprey"
   },
   {
     "package": "teal.reporter",
