@@ -38,12 +38,6 @@
   {
     "package": "nestcolor",
     "url": "https://github.com/insightsengineering/nestcolor",
-    "via": ["teal.modules.hermes", "tern"],
-    "from": "teal.modules.hermes"
-  },
-  {
-    "package": "nestcolor",
-    "url": "https://github.com/insightsengineering/nestcolor",
     "via": ["tern.mmrm", "tern"],
     "from": "tern.mmrm"
   },
