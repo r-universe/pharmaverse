@@ -20,12 +20,6 @@
   {
     "package": "nestcolor",
     "url": "https://github.com/insightsengineering/nestcolor",
-    "via": ["teal.goshawk", "tern"],
-    "from": "teal.goshawk"
-  },
-  {
-    "package": "nestcolor",
-    "url": "https://github.com/insightsengineering/nestcolor",
     "via": ["teal.modules.general", "tern"],
     "from": "teal.modules.general"
   },
