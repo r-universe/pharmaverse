@@ -18,12 +18,6 @@
     "from": "tern.mmrm"
   },
   {
-    "package": "nestcolor",
-    "url": "https://github.com/insightsengineering/nestcolor",
-    "via": ["teal.modules.general", "tern"],
-    "from": "teal.modules.general"
-  },
-  {
     "package": "osprey",
     "url": "https://github.com/insightsengineering/osprey",
     "via": ["teal.osprey"],
