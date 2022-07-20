@@ -36,12 +36,6 @@
     "from": "teal.modules.general"
   },
   {
-    "package": "nestcolor",
-    "url": "https://github.com/insightsengineering/nestcolor",
-    "via": ["tern.mmrm", "tern"],
-    "from": "tern.mmrm"
-  },
-  {
     "package": "osprey",
     "url": "https://github.com/insightsengineering/osprey",
     "via": ["teal.osprey"],
