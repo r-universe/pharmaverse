@@ -4,20 +4,60 @@
     "oncran": true
   },
   {
-    "package": "pharmaRTF",
+    "package": "admiral.test",
+    "oncran": false
+  },
+  {
+    "package": "admiralonco"
+  },
+  {
+    "package": "admiralophtha"
+  },
+  {
+    "package": "admiraltemplate"
+  },
+  {
+    "package": "crmPack",
     "oncran": true
   },
   {
-    "package": "Tplyr",
+    "package": "CTP",
+    "oncran": false
+  },
+  {
+    "package": "descem"
+  },
+  {
+    "package": "facetsr"
+  },
+  {
+    "package": "flexsurvPlus"
+  },
+  {
+    "package": "formatters",
     "oncran": true
   },
   {
-    "package": "xportr",
+    "package": "gemtcPlus"
+  },
+  {
+    "package": "ggplot2.utils"
+  },
+  {
+    "package": "ggtips"
+  },
+  {
+    "package": "goshawk"
+  },
+  {
+    "package": "hermes"
+  },
+  {
+    "package": "logrx",
     "oncran": true
   },
   {
-    "package": "pharmaRTF",
-    "oncran": true
+    "package": "MAIC"
   },
   {
     "package": "metacore",
@@ -28,23 +68,59 @@
     "oncran": true
   },
   {
-    "package": "rtables",
+    "package": "mmrm"
+  },
+  {
+    "package": "nestcolor"
+  },
+  {
+    "package": "nesttemplate"
+  },
+  {
+    "package": "osprey"
+  },
+  {
+    "package": "pharmaRTF",
     "oncran": true
   },
   {
-    "package": "logrx",
+    "package": "pharmaRTF",
     "oncran": true
+  },
+  {
+    "package": "psborrow",
+    "oncran": false
+  },
+  {
+    "package": "r.pkg.template"
   },
   {
     "package": "r2rtf",
     "oncran": true
   },
   {
-    "package": "synthetic.cdisc.data"
+    "package": "rbmi",
+    "oncran": true
   },
   {
-    "package": "visR",
+    "package": "RDO"
+  },
+  {
+    "package": "respectables"
+  },
+  {
+    "package": "rpsftmPlus"
+  },
+  {
+    "package": "rtables",
     "oncran": true
+  },
+  {
+    "package": "rtables",
+    "oncran": false
+  },
+  {
+    "package": "scda"
   },
   {
     "package": "scda.2021"
@@ -53,60 +129,34 @@
     "package": "scda.2022"
   },
   {
-    "package": "formatters",
-    "oncran": true
+    "package": "sdtmchecks2"
   },
   {
-    "package": "ggplot2.utils"
+    "package": "simaerep"
   },
   {
-    "package": "hermes"
+    "package": "staged.dependencies"
   },
   {
-    "package": "teal.logger"
+    "package": "synthetic.cdisc.data"
   },
   {
-    "package": "scda"
-  },
-  {
-    "package": "rtables",
-    "oncran": false
-  },
-  {
-    "package": "goshawk"
-  },
-  {
-    "package": "teal.data"
-  },
-  {
-    "package": "teal.reporter"
-  },
-  {
-    "package": "teal.widgets"
-  },
-  {
-    "package": "tern"
-  },
-  {
-    "package": "teal.code"
-  },
-  {
-    "package": "teal.slice"
-  },
-  {
-    "package": "osprey"
-  },
-  {
-    "package": "tern.mmrm"
-  },
-  {
-    "package": "teal.transform"
+    "package": "syntrial"
   },
   {
     "package": "teal"
   },
   {
+    "package": "teal.code"
+  },
+  {
+    "package": "teal.data"
+  },
+  {
     "package": "teal.goshawk"
+  },
+  {
+    "package": "teal.logger"
   },
   {
     "package": "teal.modules.clinical"
@@ -121,12 +171,39 @@
     "package": "teal.osprey"
   },
   {
-    "package": "nestcolor"
+    "package": "teal.reporter"
   },
   {
-    "package": "mmrm"
+    "package": "teal.slice"
   },
   {
-    "package": "respectables"
+    "package": "teal.transform"
+  },
+  {
+    "package": "teal.widgets"
+  },
+  {
+    "package": "tern"
+  },
+  {
+    "package": "tern.mmrm"
+  },
+  {
+    "package": "tern.rbmi"
+  },
+  {
+    "package": "Tplyr",
+    "oncran": true
+  },
+  {
+    "package": "uniCATE"
+  },
+  {
+    "package": "visR",
+    "oncran": true
+  },
+  {
+    "package": "xportr",
+    "oncran": true
   }
 ]
