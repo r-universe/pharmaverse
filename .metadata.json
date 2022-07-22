@@ -8,13 +8,7 @@
     "oncran": false
   },
   {
-    "package": "admiralonco"
-  },
-  {
-    "package": "admiralophtha"
-  },
-  {
-    "package": "admiraltemplate"
+    "package": "admiralext"
   },
   {
     "package": "crmPack",

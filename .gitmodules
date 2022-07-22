@@ -13,18 +13,8 @@
 	url = https://github.com/pharmaverse/admiral.test
 	shallow = true
 	registered = true
-[submodule "admiralonco"]
-	path = admiralonco
-	url = https://github.com/pharmaverse/admiralonco
-	shallow = true
-	registered = true
-[submodule "admiralophtha"]
-	path = admiralophtha
-	url = https://github.com/pharmaverse/admiralophtha
-	shallow = true
-	registered = true
-[submodule "admiraltemplate"]
-	path = admiraltemplate
+[submodule "admiralext"]
+	path = admiralext
 	url = https://github.com/pharmaverse/admiraltemplate
 	shallow = true
 	registered = true
