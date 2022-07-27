@@ -110,10 +110,6 @@
     "oncran": true
   },
   {
-    "package": "rtables",
-    "oncran": false
-  },
-  {
     "package": "scda"
   },
   {
