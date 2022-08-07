@@ -320,3 +320,8 @@
 	shallow = true
 	branch = v1.4.4
 	registered = false
+[submodule "survival"]
+	path = survival
+	url = https://github.com/therneau/survival
+	shallow = true
+	registered = false
