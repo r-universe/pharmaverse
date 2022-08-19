@@ -2270,12 +2270,6 @@
     "from": "uniCATE"
   },
   {
-    "package": "survival",
-    "url": "https://github.com/therneau/survival",
-    "via": ["visR"],
-    "from": "visR"
-  },
-  {
     "package": "teal",
     "url": "https://github.com/insightsengineering/teal",
     "via": ["teal.goshawk"],
