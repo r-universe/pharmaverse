@@ -48,7 +48,7 @@
   },
   {
     "package": "logrx",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "MAIC"
@@ -59,7 +59,7 @@
   },
   {
     "package": "metatools",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "mmrm"
