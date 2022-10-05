@@ -55,7 +55,7 @@
   },
   {
     "package": "metacore",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "metatools",
