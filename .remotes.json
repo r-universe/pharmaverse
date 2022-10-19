@@ -49,6 +49,12 @@
     "from": "teal.osprey"
   },
   {
+    "package": "osprey",
+    "url": "https://github.com/insightsengineering/osprey",
+    "via": ["teal.osprey"],
+    "from": "teal.osprey"
+  },
+  {
     "package": "respectables",
     "url": "https://github.com/Roche/respectables",
     "via": ["synthetic.cdisc.data"],
@@ -556,6 +562,18 @@
     "package": "scda",
     "url": "https://github.com/insightsengineering/scda",
     "via": ["teal.osprey", "tern"],
+    "from": "teal.osprey"
+  },
+  {
+    "package": "scda",
+    "url": "https://github.com/insightsengineering/scda",
+    "via": ["teal.osprey", "osprey"],
+    "from": "teal.osprey"
+  },
+  {
+    "package": "scda",
+    "url": "https://github.com/insightsengineering/scda",
+    "via": ["teal.osprey", "osprey", "tern"],
     "from": "teal.osprey"
   },
   {
@@ -1575,6 +1593,24 @@
   {
     "package": "scda.2021",
     "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.osprey", "osprey"],
+    "from": "teal.osprey"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.osprey", "osprey", "scda"],
+    "from": "teal.osprey"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
+    "via": ["teal.osprey", "osprey", "tern", "scda"],
+    "from": "teal.osprey"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021",
     "via": ["teal.slice"],
     "from": "teal.slice"
   },
@@ -2218,6 +2254,24 @@
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["teal.osprey", "tern", "scda"],
+    "from": "teal.osprey"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.osprey", "osprey", "scda"],
+    "from": "teal.osprey"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.osprey", "osprey", "tern"],
+    "from": "teal.osprey"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.osprey", "osprey", "tern", "scda"],
     "from": "teal.osprey"
   },
   {
@@ -3779,6 +3833,12 @@
     "package": "tern",
     "url": "https://github.com/insightsengineering/tern",
     "via": ["teal.osprey"],
+    "from": "teal.osprey"
+  },
+  {
+    "package": "tern",
+    "url": "https://github.com/insightsengineering/tern",
+    "via": ["teal.osprey", "osprey"],
     "from": "teal.osprey"
   },
   {
