@@ -63,7 +63,7 @@
   },
   {
     "package": "mmrm",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "nestcolor"
