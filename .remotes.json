@@ -621,6 +621,12 @@
   {
     "package": "scda",
     "url": "https://github.com/insightsengineering/scda",
+    "via": ["tern.gee", "tern"],
+    "from": "tern.gee"
+  },
+  {
+    "package": "scda",
+    "url": "https://github.com/insightsengineering/scda",
     "via": ["tern.mmrm", "tern"],
     "from": "tern.mmrm"
   },
@@ -1925,6 +1931,18 @@
     "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["tern", "scda"],
     "from": "tern"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["tern.gee", "tern"],
+    "from": "tern.gee"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["tern.gee", "tern", "scda"],
+    "from": "tern.gee"
   },
   {
     "package": "scda.2022",
@@ -3444,6 +3462,12 @@
     "url": "https://github.com/insightsengineering/tern",
     "via": ["teal.osprey"],
     "from": "teal.osprey"
+  },
+  {
+    "package": "tern",
+    "url": "https://github.com/insightsengineering/tern",
+    "via": ["tern.gee"],
+    "from": "tern.gee"
   },
   {
     "package": "tern",
