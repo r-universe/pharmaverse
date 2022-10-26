@@ -639,24 +639,6 @@
   {
     "package": "scda.2021",
     "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["osprey"],
-    "from": "osprey"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["osprey", "scda"],
-    "from": "osprey"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["osprey", "tern", "scda"],
-    "from": "osprey"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
     "via": ["scda"],
     "from": "scda"
   },
@@ -1691,6 +1673,12 @@
     "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["goshawk", "scda"],
     "from": "goshawk"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["osprey"],
+    "from": "osprey"
   },
   {
     "package": "scda.2022",
