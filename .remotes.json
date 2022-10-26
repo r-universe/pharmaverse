@@ -981,204 +981,6 @@
   {
     "package": "scda.2021",
     "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "scda"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal.data"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal.data", "scda"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal.slice"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal.slice", "scda"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal.slice", "teal.data"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal.slice", "teal.data", "scda"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal.transform"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal.transform", "scda"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal.transform", "teal.data"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal.transform", "teal.data", "scda"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal.transform", "teal.slice"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal.transform", "teal.slice", "scda"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal.transform", "teal.slice", "teal.data"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal.transform", "teal.slice", "teal.data", "scda"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal", "scda"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal", "teal.data"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal", "teal.data", "scda"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal", "teal.slice"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal", "teal.slice", "scda"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal", "teal.slice", "teal.data"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal", "teal.slice", "teal.data", "scda"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal", "teal.transform"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal", "teal.transform", "scda"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal", "teal.transform", "teal.data"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal", "teal.transform", "teal.data", "scda"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal", "teal.transform", "teal.slice"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal", "teal.transform", "teal.slice", "scda"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal", "teal.transform", "teal.slice", "teal.data"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "teal", "teal.transform", "teal.slice", "teal.data", "scda"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["teal.modules.general", "tern", "scda"],
-    "from": "teal.modules.general"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
     "via": ["teal.modules.hermes", "scda"],
     "from": "teal.modules.hermes"
   },
@@ -1917,7 +1719,19 @@
   {
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.general"],
+    "from": "teal.modules.general"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["teal.modules.general", "scda"],
+    "from": "teal.modules.general"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.general", "teal.data"],
     "from": "teal.modules.general"
   },
   {
@@ -1929,7 +1743,19 @@
   {
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.general", "teal.slice"],
+    "from": "teal.modules.general"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["teal.modules.general", "teal.slice", "scda"],
+    "from": "teal.modules.general"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.general", "teal.slice", "teal.data"],
     "from": "teal.modules.general"
   },
   {
@@ -1941,7 +1767,19 @@
   {
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.general", "teal.transform"],
+    "from": "teal.modules.general"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["teal.modules.general", "teal.transform", "scda"],
+    "from": "teal.modules.general"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.general", "teal.transform", "teal.data"],
     "from": "teal.modules.general"
   },
   {
@@ -1953,7 +1791,19 @@
   {
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.general", "teal.transform", "teal.slice"],
+    "from": "teal.modules.general"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["teal.modules.general", "teal.transform", "teal.slice", "scda"],
+    "from": "teal.modules.general"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.general", "teal.transform", "teal.slice", "teal.data"],
     "from": "teal.modules.general"
   },
   {
@@ -1965,7 +1815,19 @@
   {
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.general", "teal"],
+    "from": "teal.modules.general"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["teal.modules.general", "teal", "scda"],
+    "from": "teal.modules.general"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.general", "teal", "teal.data"],
     "from": "teal.modules.general"
   },
   {
@@ -1977,7 +1839,19 @@
   {
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.general", "teal", "teal.slice"],
+    "from": "teal.modules.general"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["teal.modules.general", "teal", "teal.slice", "scda"],
+    "from": "teal.modules.general"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.general", "teal", "teal.slice", "teal.data"],
     "from": "teal.modules.general"
   },
   {
@@ -1989,7 +1863,19 @@
   {
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.general", "teal", "teal.transform"],
+    "from": "teal.modules.general"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["teal.modules.general", "teal", "teal.transform", "scda"],
+    "from": "teal.modules.general"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.general", "teal", "teal.transform", "teal.data"],
     "from": "teal.modules.general"
   },
   {
@@ -2001,7 +1887,19 @@
   {
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.general", "teal", "teal.transform", "teal.slice"],
+    "from": "teal.modules.general"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["teal.modules.general", "teal", "teal.transform", "teal.slice", "scda"],
+    "from": "teal.modules.general"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.general", "teal", "teal.transform", "teal.slice", "teal.data"],
     "from": "teal.modules.general"
   },
   {
