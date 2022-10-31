@@ -18,6 +18,21 @@
 	url = https://github.com/pharmaverse/admiraltemplate
 	shallow = true
 	registered = true
+[submodule "admiralonco"]
+	path = admiralonco
+	url = https://github.com/pharmaverse/admiralonco
+	shallow = true
+	registered = true
+[submodule "admiralophtha"]
+	path = admiralophtha
+	url = https://github.com/pharmaverse/admiralophtha
+	shallow = true
+	registered = true
+[submodule "admiralvaccine"]
+	path = admiralvaccine
+	url = https://github.com/pharmaverse/admiralvaccine
+	shallow = true
+	registered = true
 [submodule "crmPack"]
 	path = crmPack
 	url = https://github.com/Roche/crmPack
@@ -26,6 +41,11 @@
 [submodule "CTP"]
 	path = CTP
 	url = https://github.com/openpharma/CTP
+	shallow = true
+	registered = true
+[submodule "datacutr"]
+	path = datacutr
+	url = https://github.com/pharmaverse/datacutr
 	shallow = true
 	registered = true
 [submodule "descem"]
@@ -98,6 +118,11 @@
 	url = https://github.com/openpharma/mmrm
 	shallow = true
 	registered = true
+[submodule "mtdesign"]
+	path = mtdesign
+	url = https://github.com/openpharma/mtdesign
+	shallow = true
+	registered = true
 [submodule "nestcolor"]
 	path = nestcolor
 	url = https://github.com/insightsengineering/nestcolor
@@ -138,6 +163,11 @@
 	url = https://github.com/insightsengineering/rbmi
 	shallow = true
 	registered = true
+[submodule "rlistings"]
+	path = rlistings
+	url = https://github.com/insightsengineering/rlistings
+	shallow = true
+	registered = true
 [submodule "RDO"]
 	path = RDO
 	url = https://github.com/openpharma/RDO
@@ -173,9 +203,9 @@
 	url = https://github.com/insightsengineering/scda.2022
 	shallow = true
 	registered = true
-[submodule "sdtmchecks2"]
-	path = sdtmchecks2
-	url = https://github.com/pharmaverse/sdtmchecks2
+[submodule "sdtmchecks"]
+	path = sdtmchecks
+	url = https://github.com/pharmaverse/sdtmchecks
 	shallow = true
 	registered = true
 [submodule "simaerep"]
@@ -266,6 +296,11 @@
 [submodule "tern"]
 	path = tern
 	url = https://github.com/insightsengineering/tern
+	shallow = true
+	registered = true
+[submodule "tern.gee"]
+	path = tern.gee
+	url = https://github.com/insightsengineering/tern.gee
 	shallow = true
 	registered = true
 [submodule "tern.mmrm"]

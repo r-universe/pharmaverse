@@ -11,12 +11,29 @@
     "package": "admiralext"
   },
   {
+    "package": "admiralonco",
+    "oncran": false
+  },
+  {
+    "package": "admiralophtha"
+  },
+  {
+    "package": "admiralvaccine"
+  },
+  {
+    "package": "admiral.test",
+    "oncran": false
+  },
+  {
     "package": "crmPack",
     "oncran": true
   },
   {
     "package": "CTP",
     "oncran": false
+  },
+  {
+    "package": "datacutr"
   },
   {
     "package": "descem"
@@ -66,6 +83,10 @@
     "oncran": true
   },
   {
+    "package": "mtdesign",
+    "oncran": true
+  },
+  {
     "package": "nestcolor"
   },
   {
@@ -98,6 +119,9 @@
     "oncran": true
   },
   {
+    "package": "rlistings"
+  },
+  {
     "package": "RDO"
   },
   {
@@ -120,7 +144,7 @@
     "package": "scda.2022"
   },
   {
-    "package": "sdtmchecks2"
+    "package": "sdtmchecks"
   },
   {
     "package": "simaerep"
@@ -175,6 +199,9 @@
   },
   {
     "package": "tern"
+  },
+  {
+    "package": "tern.gee"
   },
   {
     "package": "tern.mmrm"
