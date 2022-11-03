@@ -927,12 +927,6 @@
   {
     "package": "scda.2021",
     "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["tern", "scda"],
-    "from": "tern"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
     "via": ["tern.mmrm", "tern", "scda"],
     "from": "tern.mmrm"
   },
