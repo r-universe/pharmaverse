@@ -637,12 +637,6 @@
     "from": "tern.rbmi"
   },
   {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["tern.mmrm", "tern", "scda"],
-    "from": "tern.mmrm"
-  },
-  {
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["goshawk"],
