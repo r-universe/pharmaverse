@@ -639,12 +639,6 @@
   {
     "package": "scda.2021",
     "url": "https://github.com/insightsengineering/scda.2021",
-    "via": ["goshawk", "scda"],
-    "from": "goshawk"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021",
     "via": ["tern.mmrm", "tern", "scda"],
     "from": "tern.mmrm"
   },
