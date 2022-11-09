@@ -115,8 +115,7 @@
     "oncran": true
   },
   {
-    "package": "rbmi",
-    "oncran": true
+    "package": "rbmi"
   },
   {
     "package": "rlistings"
