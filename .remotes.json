@@ -309,6 +309,12 @@
   {
     "package": "scda",
     "url": "https://github.com/insightsengineering/scda",
+    "via": ["teal.modules.clinical", "tern.gee", "tern"],
+    "from": "teal.modules.clinical"
+  },
+  {
+    "package": "scda",
+    "url": "https://github.com/insightsengineering/scda",
     "via": ["teal.modules.clinical", "tern.mmrm", "tern"],
     "from": "teal.modules.clinical"
   },
@@ -1132,6 +1138,18 @@
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["teal.modules.clinical", "teal", "teal.transform", "teal.slice", "teal.data", "scda"],
+    "from": "teal.modules.clinical"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.clinical", "tern.gee", "tern"],
+    "from": "teal.modules.clinical"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["teal.modules.clinical", "tern.gee", "tern", "scda"],
     "from": "teal.modules.clinical"
   },
   {
@@ -3250,6 +3268,12 @@
   {
     "package": "tern",
     "url": "https://github.com/insightsengineering/tern",
+    "via": ["teal.modules.clinical", "tern.gee"],
+    "from": "teal.modules.clinical"
+  },
+  {
+    "package": "tern",
+    "url": "https://github.com/insightsengineering/tern",
     "via": ["teal.modules.clinical", "tern.mmrm"],
     "from": "teal.modules.clinical"
   },
@@ -3306,6 +3330,12 @@
     "url": "https://github.com/insightsengineering/tern",
     "via": ["tern.rbmi"],
     "from": "tern.rbmi"
+  },
+  {
+    "package": "tern.gee",
+    "url": "https://github.com/insightsengineering/tern.gee",
+    "via": ["teal.modules.clinical"],
+    "from": "teal.modules.clinical"
   },
   {
     "package": "tern.mmrm",
