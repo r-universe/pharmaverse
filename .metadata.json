@@ -65,7 +65,7 @@
   },
   {
     "package": "logrx",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "MAIC"
