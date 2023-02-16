@@ -471,12 +471,6 @@
   {
     "package": "scda",
     "url": "https://github.com/insightsengineering/scda",
-    "via": ["teal.modules.hermes", "tern"],
-    "from": "teal.modules.hermes"
-  },
-  {
-    "package": "scda",
-    "url": "https://github.com/insightsengineering/scda",
     "via": ["teal.osprey", "osprey"],
     "from": "teal.osprey"
   },
@@ -1402,18 +1396,6 @@
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["teal.modules.hermes", "teal", "teal.transform", "teal.slice", "teal.data", "scda"],
-    "from": "teal.modules.hermes"
-  },
-  {
-    "package": "scda.2022",
-    "url": "https://github.com/insightsengineering/scda.2022",
-    "via": ["teal.modules.hermes", "tern"],
-    "from": "teal.modules.hermes"
-  },
-  {
-    "package": "scda.2022",
-    "url": "https://github.com/insightsengineering/scda.2022",
-    "via": ["teal.modules.hermes", "tern", "scda"],
     "from": "teal.modules.hermes"
   },
   {
