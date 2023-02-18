@@ -203,9 +203,19 @@
 	url = https://github.com/insightsengineering/scda.2022
 	shallow = true
 	registered = true
+[submodule "scda.test"]
+	path = scda.test
+	url = https://github.com/insightsengineering/scda.test
+	shallow = true
+	registered = true
 [submodule "sdtmchecks"]
 	path = sdtmchecks
 	url = https://github.com/pharmaverse/sdtmchecks
+	shallow = true
+	registered = true
+[submodule "simIDM"]
+	path = simIDM
+	url = https://github.com/insightsengineering/simIDM
 	shallow = true
 	registered = true
 [submodule "simaerep"]

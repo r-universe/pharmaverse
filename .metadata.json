@@ -144,7 +144,14 @@
     "package": "scda.2022"
   },
   {
+    "package": "scda.test"
+  },
+  {
     "package": "sdtmchecks"
+  },
+  {
+    "package": "simIDM",
+    "oncran": true
   },
   {
     "package": "simaerep"
