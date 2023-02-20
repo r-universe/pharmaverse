@@ -297,24 +297,6 @@
   {
     "package": "scda",
     "url": "https://github.com/insightsengineering/scda",
-    "via": ["teal.modules.clinical", "tern.gee", "tern"],
-    "from": "teal.modules.clinical"
-  },
-  {
-    "package": "scda",
-    "url": "https://github.com/insightsengineering/scda",
-    "via": ["teal.modules.clinical", "tern.mmrm", "tern"],
-    "from": "teal.modules.clinical"
-  },
-  {
-    "package": "scda",
-    "url": "https://github.com/insightsengineering/scda",
-    "via": ["teal.modules.clinical", "tern"],
-    "from": "teal.modules.clinical"
-  },
-  {
-    "package": "scda",
-    "url": "https://github.com/insightsengineering/scda",
     "via": ["teal.modules.general"],
     "from": "teal.modules.general"
   },
@@ -1048,42 +1030,6 @@
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["teal.modules.clinical", "teal", "teal.transform", "teal.slice", "teal.data", "scda"],
-    "from": "teal.modules.clinical"
-  },
-  {
-    "package": "scda.2022",
-    "url": "https://github.com/insightsengineering/scda.2022",
-    "via": ["teal.modules.clinical", "tern.gee", "tern"],
-    "from": "teal.modules.clinical"
-  },
-  {
-    "package": "scda.2022",
-    "url": "https://github.com/insightsengineering/scda.2022",
-    "via": ["teal.modules.clinical", "tern.gee", "tern", "scda"],
-    "from": "teal.modules.clinical"
-  },
-  {
-    "package": "scda.2022",
-    "url": "https://github.com/insightsengineering/scda.2022",
-    "via": ["teal.modules.clinical", "tern.mmrm", "tern"],
-    "from": "teal.modules.clinical"
-  },
-  {
-    "package": "scda.2022",
-    "url": "https://github.com/insightsengineering/scda.2022",
-    "via": ["teal.modules.clinical", "tern.mmrm", "tern", "scda"],
-    "from": "teal.modules.clinical"
-  },
-  {
-    "package": "scda.2022",
-    "url": "https://github.com/insightsengineering/scda.2022",
-    "via": ["teal.modules.clinical", "tern"],
-    "from": "teal.modules.clinical"
-  },
-  {
-    "package": "scda.2022",
-    "url": "https://github.com/insightsengineering/scda.2022",
-    "via": ["teal.modules.clinical", "tern", "scda"],
     "from": "teal.modules.clinical"
   },
   {
