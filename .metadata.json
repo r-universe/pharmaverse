@@ -132,7 +132,7 @@
   },
   {
     "package": "rtables",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "scda"
