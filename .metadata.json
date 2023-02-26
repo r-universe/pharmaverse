@@ -155,7 +155,7 @@
   },
   {
     "package": "simaerep",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "staged.dependencies"
