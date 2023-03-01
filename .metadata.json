@@ -71,12 +71,10 @@
     "package": "MAIC"
   },
   {
-    "package": "metacore",
-    "oncran": true
+    "package": "metacore"
   },
   {
-    "package": "metatools",
-    "oncran": true
+    "package": "metatools"
   },
   {
     "package": "mmrm",
