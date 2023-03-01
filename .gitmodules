@@ -234,3 +234,21 @@
 	path = covr
 	url = https://github.com/r-lib/covr
 	registered = false
+[submodule "hal9001"]
+	path = hal9001
+	url = https://github.com/tlverse/hal9001
+	branch = devel
+	registered = false
+[submodule "haldensify"]
+	path = haldensify
+	url = https://github.com/nhejazi/haldensify
+	registered = false
+[submodule "origami"]
+	path = origami
+	url = https://github.com/tlverse/origami
+	registered = false
+[submodule "sl3"]
+	path = sl3
+	url = https://github.com/tlverse/sl3
+	branch = v1.4.4
+	registered = false

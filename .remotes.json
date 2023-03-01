@@ -12,6 +12,19 @@
     "from": "teal.goshawk"
   },
   {
+    "package": "hal9001",
+    "url": "https://github.com/tlverse/hal9001",
+    "via": ["uniCATE", "sl3"],
+    "branch": "devel",
+    "from": "uniCATE"
+  },
+  {
+    "package": "haldensify",
+    "url": "https://github.com/nhejazi/haldensify",
+    "via": ["uniCATE", "sl3"],
+    "from": "uniCATE"
+  },
+  {
     "package": "hermes",
     "url": "https://github.com/insightsengineering/hermes",
     "via": ["teal.modules.hermes"],
@@ -30,6 +43,12 @@
     "from": "tern.mmrm"
   },
   {
+    "package": "origami",
+    "url": "https://github.com/tlverse/origami",
+    "via": ["uniCATE", "sl3"],
+    "from": "uniCATE"
+  },
+  {
     "package": "osprey",
     "url": "https://github.com/insightsengineering/osprey",
     "via": ["teal.osprey"],
@@ -40,6 +59,13 @@
     "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["scda"],
     "from": "scda"
+  },
+  {
+    "package": "sl3",
+    "url": "https://github.com/tlverse/sl3",
+    "via": ["uniCATE"],
+    "branch": "v1.4.4",
+    "from": "uniCATE"
   },
   {
     "package": "teal",
