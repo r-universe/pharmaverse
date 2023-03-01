@@ -75,6 +75,15 @@
 [submodule "goshawk"]
 	path = goshawk
 	url = https://github.com/insightsengineering/goshawk
+[submodule "hal9001"]
+	path = hal9001
+	url = https://github.com/tlverse/hal9001
+	branch = devel
+	registered = false
+[submodule "haldensify"]
+	path = haldensify
+	url = https://github.com/nhejazi/haldensify
+	registered = false
 [submodule "hermes"]
 	path = hermes
 	url = https://github.com/insightsengineering/hermes
@@ -99,6 +108,10 @@
 [submodule "nesttemplate"]
 	path = nesttemplate
 	url = https://github.com/insightsengineering/nesttemplate
+[submodule "origami"]
+	path = origami
+	url = https://github.com/tlverse/origami
+	registered = false
 [submodule "osprey"]
 	path = osprey
 	url = https://github.com/insightsengineering/osprey
@@ -153,6 +166,11 @@
 [submodule "simaerep"]
 	path = simaerep
 	url = https://github.com/openpharma/simaerep
+[submodule "sl3"]
+	path = sl3
+	url = https://github.com/tlverse/sl3
+	branch = v1.4.4
+	registered = false
 [submodule "staged.dependencies"]
 	path = staged.dependencies
 	url = https://github.com/openpharma/staged.dependencies
