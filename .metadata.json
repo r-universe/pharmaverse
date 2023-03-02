@@ -71,7 +71,8 @@
     "package": "MAIC"
   },
   {
-    "package": "metacore"
+    "package": "metacore",
+    "oncran": true
   },
   {
     "package": "metatools"
