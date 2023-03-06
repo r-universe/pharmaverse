@@ -8,6 +8,10 @@
     "oncran": false
   },
   {
+    "package": "admiral.test",
+    "oncran": false
+  },
+  {
     "package": "admiralext"
   },
   {
@@ -19,10 +23,6 @@
   },
   {
     "package": "admiralvaccine"
-  },
-  {
-    "package": "admiral.test",
-    "oncran": false
   },
   {
     "package": "crmPack",
@@ -65,7 +65,7 @@
   },
   {
     "package": "logrx",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "MAIC"
@@ -118,13 +118,13 @@
     "oncran": true
   },
   {
-    "package": "rlistings"
-  },
-  {
     "package": "RDO"
   },
   {
     "package": "respectables"
+  },
+  {
+    "package": "rlistings"
   },
   {
     "package": "rpsftmPlus"
@@ -149,11 +149,11 @@
     "package": "sdtmchecks"
   },
   {
-    "package": "simIDM",
+    "package": "simaerep",
     "oncran": true
   },
   {
-    "package": "simaerep",
+    "package": "simIDM",
     "oncran": true
   },
   {

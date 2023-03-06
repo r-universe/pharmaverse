@@ -95,7 +95,7 @@
 	registered = true
 [submodule "logrx"]
 	path = logrx
-	url = https://github.com/atorus-research/logrx
+	url = https://github.com/pharmaverse/logrx
 	shallow = true
 	registered = true
 [submodule "MAIC"]
@@ -163,11 +163,6 @@
 	url = https://github.com/insightsengineering/rbmi
 	shallow = true
 	registered = true
-[submodule "rlistings"]
-	path = rlistings
-	url = https://github.com/insightsengineering/rlistings
-	shallow = true
-	registered = true
 [submodule "RDO"]
 	path = RDO
 	url = https://github.com/openpharma/RDO
@@ -176,6 +171,11 @@
 [submodule "respectables"]
 	path = respectables
 	url = https://github.com/Roche/respectables
+	shallow = true
+	registered = true
+[submodule "rlistings"]
+	path = rlistings
+	url = https://github.com/insightsengineering/rlistings
 	shallow = true
 	registered = true
 [submodule "rpsftmPlus"]
@@ -213,14 +213,14 @@
 	url = https://github.com/pharmaverse/sdtmchecks
 	shallow = true
 	registered = true
-[submodule "simIDM"]
-	path = simIDM
-	url = https://github.com/insightsengineering/simIDM
-	shallow = true
-	registered = true
 [submodule "simaerep"]
 	path = simaerep
 	url = https://github.com/openpharma/simaerep
+	shallow = true
+	registered = true
+[submodule "simIDM"]
+	path = simIDM
+	url = https://github.com/insightsengineering/simIDM
 	shallow = true
 	registered = true
 [submodule "staged.dependencies"]
