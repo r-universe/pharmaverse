@@ -185,7 +185,7 @@
 	registered = true
 [submodule "rtables"]
 	path = rtables
-	url = https://github.com/Roche/rtables
+	url = https://github.com/insightsengineering/rtables
 	shallow = true
 	registered = true
 [submodule "scda"]
