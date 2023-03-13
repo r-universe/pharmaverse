@@ -75,7 +75,8 @@
     "oncran": true
   },
   {
-    "package": "metatools"
+    "package": "metatools",
+    "oncran": true
   },
   {
     "package": "mmrm",
