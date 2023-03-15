@@ -19,7 +19,8 @@
     "oncran": false
   },
   {
-    "package": "admiralophtha"
+    "package": "admiralophtha",
+    "oncran": false
   },
   {
     "package": "admiralvaccine"
