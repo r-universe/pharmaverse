@@ -20,7 +20,7 @@
   },
   {
     "package": "admiralophtha",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "admiralvaccine"
