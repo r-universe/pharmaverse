@@ -138,6 +138,11 @@
 	url = https://github.com/atorus-research/xportr
 	shallow = true
 	registered = true
+[submodule "covr"]
+	path = covr
+	url = https://github.com/r-lib/covr
+	shallow = true
+	registered = false
 [submodule "goshawk"]
 	path = goshawk
 	url = https://github.com/insightsengineering/goshawk
