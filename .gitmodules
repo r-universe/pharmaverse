@@ -143,42 +143,6 @@
 	url = https://github.com/r-lib/covr
 	shallow = true
 	registered = false
-[submodule "goshawk"]
-	path = goshawk
-	url = https://github.com/insightsengineering/goshawk
-	shallow = true
-	registered = false
-[submodule "hal9001"]
-	path = hal9001
-	url = https://github.com/tlverse/hal9001
-	shallow = true
-	branch = devel
-	registered = false
-[submodule "haldensify"]
-	path = haldensify
-	url = https://github.com/nhejazi/haldensify
-	shallow = true
-	registered = false
-[submodule "hermes"]
-	path = hermes
-	url = https://github.com/insightsengineering/hermes
-	shallow = true
-	registered = false
-[submodule "mmrm"]
-	path = mmrm
-	url = https://github.com/openpharma/mmrm
-	shallow = true
-	registered = false
-[submodule "origami"]
-	path = origami
-	url = https://github.com/tlverse/origami
-	shallow = true
-	registered = false
-[submodule "osprey"]
-	path = osprey
-	url = https://github.com/insightsengineering/osprey
-	shallow = true
-	registered = false
 [submodule "respectables"]
 	path = respectables
 	url = https://github.com/Roche/respectables
@@ -193,12 +157,6 @@
 	path = scda.2022
 	url = https://github.com/insightsengineering/scda.2022
 	shallow = true
-	registered = false
-[submodule "sl3"]
-	path = sl3
-	url = https://github.com/tlverse/sl3
-	shallow = true
-	branch = v1.4.4
 	registered = false
 [submodule "teal.code"]
 	path = teal.code
@@ -233,15 +191,5 @@
 [submodule "teal.widgets"]
 	path = teal.widgets
 	url = https://github.com/insightsengineering/teal.widgets
-	shallow = true
-	registered = false
-[submodule "tern.gee"]
-	path = tern.gee
-	url = https://github.com/insightsengineering/tern.gee
-	shallow = true
-	registered = false
-[submodule "tern.mmrm"]
-	path = tern.mmrm
-	url = https://github.com/insightsengineering/tern.mmrm
 	shallow = true
 	registered = false
