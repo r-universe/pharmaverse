@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/pharmaverse/universe
+	url = https://github.com/pharmaverse/pharmaverse.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "admiral"]
@@ -101,11 +101,6 @@
 [submodule "tfrmt"]
 	path = tfrmt
 	url = https://github.com/GSK-Biostatistics/tfrmt
-	shallow = true
-	registered = true
-[submodule "thevalidatoR"]
-	path = thevalidatoR
-	url = https://github.com/insightsengineering/thevalidatoR
 	shallow = true
 	registered = true
 [submodule "tidyCDISC"]
