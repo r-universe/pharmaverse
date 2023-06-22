@@ -38,6 +38,11 @@
 	url = https://github.com/pharmaverse/envsetup
 	shallow = true
 	registered = true
+[submodule "ggsurvfit"]
+	path = ggsurvfit
+	url = https://github.com/pharmaverse/ggsurvfit
+	shallow = true
+	registered = true
 [submodule "logrx"]
 	path = logrx
 	url = https://github.com/pharmaverse/logrx
@@ -101,6 +106,11 @@
 [submodule "tfrmt"]
 	path = tfrmt
 	url = https://github.com/GSK-Biostatistics/tfrmt
+	shallow = true
+	registered = true
+[submodule "thevalidatoR"]
+	path = thevalidatoR
+	url = https://github.com/insightsengineering/thevalidatoR
 	shallow = true
 	registered = true
 [submodule "tidyCDISC"]
