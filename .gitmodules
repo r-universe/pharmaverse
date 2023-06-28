@@ -1,200 +1,132 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/pharmaverse/pharmaverse.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "admiral"]
 	path = admiral
 	url = https://github.com/pharmaverse/admiral
-	shallow = true
-	registered = true
 [submodule "admiralonco"]
 	path = admiralonco
 	url = https://github.com/pharmaverse/admiralonco
-	shallow = true
-	registered = true
 [submodule "admiralophtha"]
 	path = admiralophtha
 	url = https://github.com/pharmaverse/admiralophtha
-	shallow = true
-	registered = true
 [submodule "admiralvaccine"]
 	path = admiralvaccine
 	url = https://github.com/pharmaverse/admiralvaccine
-	shallow = true
-	registered = true
 [submodule "covtracer"]
 	path = covtracer
 	url = https://github.com/Genentech/covtracer
-	shallow = true
-	registered = true
 [submodule "datacutr"]
 	path = datacutr
 	url = https://github.com/pharmaverse/datacutr
-	shallow = true
-	registered = true
 [submodule "envsetup"]
 	path = envsetup
 	url = https://github.com/pharmaverse/envsetup
-	shallow = true
-	registered = true
 [submodule "ggsurvfit"]
 	path = ggsurvfit
 	url = https://github.com/pharmaverse/ggsurvfit
-	shallow = true
-	registered = true
 [submodule "logrx"]
 	path = logrx
 	url = https://github.com/pharmaverse/logrx
-	shallow = true
-	registered = true
 [submodule "metacore"]
 	path = metacore
 	url = https://github.com/atorus-research/metacore
-	shallow = true
-	registered = true
 [submodule "metatools"]
 	path = metatools
 	url = https://github.com/pharmaverse/metatools
-	shallow = true
-	registered = true
 [submodule "pharmaRTF"]
 	path = pharmaRTF
 	url = https://github.com/atorus-research/pharmaRTF
-	shallow = true
-	registered = true
 [submodule "pkglite"]
 	path = pkglite
 	url = https://github.com/Merck/pkglite
-	shallow = true
-	registered = true
 [submodule "riskassessment"]
 	path = riskassessment
 	url = https://github.com/pharmaR/riskassessment
-	shallow = true
-	registered = true
 [submodule "riskmetric"]
 	path = riskmetric
 	url = https://github.com/pharmaR/riskmetric
-	shallow = true
-	registered = true
 [submodule "rtables"]
 	path = rtables
 	url = https://github.com/insightsengineering/rtables
-	shallow = true
-	registered = true
 [submodule "sdtmchecks"]
 	path = sdtmchecks
 	url = https://github.com/pharmaverse/sdtmchecks
-	shallow = true
-	registered = true
 [submodule "synthetic.cdisc.data"]
 	path = synthetic.cdisc.data
 	url = https://github.com/Roche/synthetic.cdisc.data
-	shallow = true
-	registered = true
 [submodule "teal"]
 	path = teal
 	url = https://github.com/insightsengineering/teal
-	shallow = true
-	registered = true
 [submodule "tern"]
 	path = tern
 	url = https://github.com/insightsengineering/tern
-	shallow = true
-	registered = true
 [submodule "tfrmt"]
 	path = tfrmt
 	url = https://github.com/GSK-Biostatistics/tfrmt
-	shallow = true
-	registered = true
 [submodule "thevalidatoR"]
 	path = thevalidatoR
 	url = https://github.com/insightsengineering/thevalidatoR
-	shallow = true
-	registered = true
 [submodule "tidyCDISC"]
 	path = tidyCDISC
 	url = https://github.com/Biogen-Inc/tidyCDISC
-	shallow = true
-	registered = true
 [submodule "tidytlg"]
 	path = tidytlg
 	url = https://github.com/pharmaverse/tidytlg
-	shallow = true
-	registered = true
 [submodule "Tplyr"]
 	path = Tplyr
 	url = https://github.com/atorus-research/Tplyr
-	shallow = true
-	registered = true
 [submodule "valtools"]
 	path = valtools
 	url = https://github.com/phuse-org/valtools
-	shallow = true
-	registered = true
 [submodule "visR"]
 	path = visR
 	url = https://github.com/openpharma/visR
-	shallow = true
-	registered = true
 [submodule "xportr"]
 	path = xportr
 	url = https://github.com/atorus-research/xportr
-	shallow = true
-	registered = true
 [submodule "covr"]
 	path = covr
 	url = https://github.com/r-lib/covr
-	shallow = true
 	registered = false
 [submodule "respectables"]
 	path = respectables
 	url = https://github.com/Roche/respectables
-	shallow = true
 	registered = false
 [submodule "scda"]
 	path = scda
 	url = https://github.com/insightsengineering/scda
-	shallow = true
 	registered = false
 [submodule "scda.2022"]
 	path = scda.2022
 	url = https://github.com/insightsengineering/scda.2022
-	shallow = true
 	registered = false
 [submodule "teal.code"]
 	path = teal.code
 	url = https://github.com/insightsengineering/teal.code
-	shallow = true
 	registered = false
 [submodule "teal.data"]
 	path = teal.data
 	url = https://github.com/insightsengineering/teal.data
-	shallow = true
 	registered = false
 [submodule "teal.logger"]
 	path = teal.logger
 	url = https://github.com/insightsengineering/teal.logger
-	shallow = true
 	registered = false
 [submodule "teal.reporter"]
 	path = teal.reporter
 	url = https://github.com/insightsengineering/teal.reporter
-	shallow = true
 	registered = false
 [submodule "teal.slice"]
 	path = teal.slice
 	url = https://github.com/insightsengineering/teal.slice
-	shallow = true
 	registered = false
 [submodule "teal.transform"]
 	path = teal.transform
 	url = https://github.com/insightsengineering/teal.transform
-	shallow = true
 	registered = false
 [submodule "teal.widgets"]
 	path = teal.widgets
 	url = https://github.com/insightsengineering/teal.widgets
-	shallow = true
 	registered = false
