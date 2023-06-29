@@ -372,6 +372,12 @@
     "from": "teal.osprey"
   },
   {
+    "package": "tern",
+    "url": "https://github.com/insightsengineering/tern",
+    "via": ["tern.gee"],
+    "from": "tern.gee"
+  },
+  {
     "package": "tern.gee",
     "url": "https://github.com/insightsengineering/tern.gee",
     "via": ["teal.modules.clinical"],
