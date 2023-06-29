@@ -390,6 +390,12 @@
     "from": "tern.mmrm"
   },
   {
+    "package": "tern",
+    "url": "https://github.com/insightsengineering/tern",
+    "via": ["tern.rbmi"],
+    "from": "tern.rbmi"
+  },
+  {
     "package": "tern.gee",
     "url": "https://github.com/insightsengineering/tern.gee",
     "via": ["teal.modules.clinical"],
