@@ -14,13 +14,13 @@
   {
     "package": "scda",
     "url": "https://github.com/insightsengineering/scda",
-    "via": ["teal"],
+    "via": ["teal", "teal.data"],
     "from": "teal"
   },
   {
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
-    "via": ["teal"],
+    "via": ["teal", "teal.data"],
     "from": "teal"
   },
   {
