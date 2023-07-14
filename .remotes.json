@@ -46,5 +46,11 @@
     "url": "https://github.com/insightsengineering/teal.widgets",
     "via": ["teal", "teal.slice"],
     "from": "teal"
+  },
+  {
+    "package": "tern",
+    "url": "https://github.com/insightsengineering/tern",
+    "via": ["osprey"],
+    "from": "osprey"
   }
 ]
