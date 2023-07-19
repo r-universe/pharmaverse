@@ -62,7 +62,7 @@
   {
     "package": "teal.widgets",
     "url": "https://github.com/insightsengineering/teal.widgets",
-    "via": ["teal", "teal.code"],
+    "via": ["teal", "teal.slice"],
     "from": "teal"
   }
 ]
