@@ -53,9 +53,6 @@
 [submodule "sdtmchecks"]
 	path = sdtmchecks
 	url = https://github.com/pharmaverse/sdtmchecks
-[submodule "synthetic.cdisc.data"]
-	path = synthetic.cdisc.data
-	url = https://github.com/Roche/synthetic.cdisc.data
 [submodule "teal"]
 	path = teal
 	url = https://github.com/insightsengineering/teal
