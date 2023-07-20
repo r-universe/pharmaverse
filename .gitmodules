@@ -87,10 +87,6 @@
 	path = covr
 	url = https://github.com/r-lib/covr
 	registered = false
-[submodule "respectables"]
-	path = respectables
-	url = https://github.com/Roche/respectables
-	registered = false
 [submodule "scda"]
 	path = scda
 	url = https://github.com/insightsengineering/scda
