@@ -4,5 +4,11 @@
     "url": "https://github.com/r-lib/covr",
     "via": ["covtracer"],
     "from": "covtracer"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["scda"],
+    "from": "scda"
   }
 ]
