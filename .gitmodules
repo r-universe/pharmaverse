@@ -8,8 +8,8 @@
 [submodule "admiral.test"]
 	path = admiral.test
 	url = https://github.com/pharmaverse/admiral.test
-[submodule "admiralext"]
-	path = admiralext
+[submodule "admiraltemplate"]
+	path = admiraltemplate
 	url = https://github.com/pharmaverse/admiraltemplate
 [submodule "admiralonco"]
 	path = admiralonco
