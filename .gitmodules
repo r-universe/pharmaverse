@@ -87,14 +87,6 @@
 	path = covr
 	url = https://github.com/r-lib/covr
 	registered = false
-[submodule "scda"]
-	path = scda
-	url = https://github.com/insightsengineering/scda
-	registered = false
-[submodule "scda.2022"]
-	path = scda.2022
-	url = https://github.com/insightsengineering/scda.2022
-	registered = false
 [submodule "teal.code"]
 	path = teal.code
 	url = https://github.com/insightsengineering/teal.code
