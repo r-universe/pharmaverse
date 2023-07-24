@@ -6,6 +6,12 @@
     "from": "covtracer"
   },
   {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "via": ["scda"],
+    "from": "scda"
+  },
+  {
     "package": "teal.code",
     "url": "https://github.com/insightsengineering/teal.code",
     "via": ["teal"],
