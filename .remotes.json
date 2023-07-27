@@ -44,36 +44,6 @@
     "from": "uniCATE"
   },
   {
-    "package": "teal.code",
-    "url": "https://github.com/insightsengineering/teal.code",
-    "via": ["teal.transform"],
-    "from": "teal.transform"
-  },
-  {
-    "package": "teal.data",
-    "url": "https://github.com/insightsengineering/teal.data",
-    "via": ["teal.transform"],
-    "from": "teal.transform"
-  },
-  {
-    "package": "teal.logger",
-    "url": "https://github.com/insightsengineering/teal.logger",
-    "via": ["teal.transform", "teal.data"],
-    "from": "teal.transform"
-  },
-  {
-    "package": "teal.slice",
-    "url": "https://github.com/insightsengineering/teal.slice",
-    "via": ["teal.transform"],
-    "from": "teal.transform"
-  },
-  {
-    "package": "teal.widgets",
-    "url": "https://github.com/insightsengineering/teal.widgets",
-    "via": ["teal.transform", "teal.slice"],
-    "from": "teal.transform"
-  },
-  {
     "package": "tern",
     "url": "https://github.com/insightsengineering/tern",
     "via": ["tern.gee"],
