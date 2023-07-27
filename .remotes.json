@@ -364,12 +364,6 @@
   {
     "package": "tern",
     "url": "https://github.com/insightsengineering/tern",
-    "via": ["osprey"],
-    "from": "osprey"
-  },
-  {
-    "package": "tern",
-    "url": "https://github.com/insightsengineering/tern",
     "via": ["teal.goshawk"],
     "from": "teal.goshawk"
   },
