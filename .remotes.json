@@ -27,12 +27,6 @@
   {
     "package": "mmrm",
     "url": "https://github.com/openpharma/mmrm",
-    "via": ["teal.modules.clinical", "tern.mmrm"],
-    "from": "teal.modules.clinical"
-  },
-  {
-    "package": "mmrm",
-    "url": "https://github.com/openpharma/mmrm",
     "via": ["tern.mmrm"],
     "from": "tern.mmrm"
   },
@@ -64,12 +58,6 @@
   {
     "package": "teal",
     "url": "https://github.com/insightsengineering/teal",
-    "via": ["teal.modules.clinical"],
-    "from": "teal.modules.clinical"
-  },
-  {
-    "package": "teal",
-    "url": "https://github.com/insightsengineering/teal",
     "via": ["teal.modules.general"],
     "from": "teal.modules.general"
   },
@@ -84,12 +72,6 @@
     "url": "https://github.com/insightsengineering/teal",
     "via": ["teal.osprey"],
     "from": "teal.osprey"
-  },
-  {
-    "package": "teal.code",
-    "url": "https://github.com/insightsengineering/teal.code",
-    "via": ["teal.modules.clinical"],
-    "from": "teal.modules.clinical"
   },
   {
     "package": "teal.code",
@@ -114,12 +96,6 @@
     "url": "https://github.com/insightsengineering/teal.code",
     "via": ["teal.transform"],
     "from": "teal.transform"
-  },
-  {
-    "package": "teal.data",
-    "url": "https://github.com/insightsengineering/teal.data",
-    "via": ["teal.modules.clinical"],
-    "from": "teal.modules.clinical"
   },
   {
     "package": "teal.data",
@@ -150,12 +126,6 @@
     "url": "https://github.com/insightsengineering/teal.data",
     "via": ["teal.transform"],
     "from": "teal.transform"
-  },
-  {
-    "package": "teal.logger",
-    "url": "https://github.com/insightsengineering/teal.logger",
-    "via": ["teal.modules.clinical", "teal.data"],
-    "from": "teal.modules.clinical"
   },
   {
     "package": "teal.logger",
@@ -190,12 +160,6 @@
   {
     "package": "teal.reporter",
     "url": "https://github.com/insightsengineering/teal.reporter",
-    "via": ["teal.modules.clinical"],
-    "from": "teal.modules.clinical"
-  },
-  {
-    "package": "teal.reporter",
-    "url": "https://github.com/insightsengineering/teal.reporter",
     "via": ["teal.modules.general"],
     "from": "teal.modules.general"
   },
@@ -210,12 +174,6 @@
     "url": "https://github.com/insightsengineering/teal.reporter",
     "via": ["teal.osprey"],
     "from": "teal.osprey"
-  },
-  {
-    "package": "teal.slice",
-    "url": "https://github.com/insightsengineering/teal.slice",
-    "via": ["teal.modules.clinical", "teal.transform"],
-    "from": "teal.modules.clinical"
   },
   {
     "package": "teal.slice",
@@ -244,12 +202,6 @@
   {
     "package": "teal.transform",
     "url": "https://github.com/insightsengineering/teal.transform",
-    "via": ["teal.modules.clinical"],
-    "from": "teal.modules.clinical"
-  },
-  {
-    "package": "teal.transform",
-    "url": "https://github.com/insightsengineering/teal.transform",
     "via": ["teal.modules.general"],
     "from": "teal.modules.general"
   },
@@ -264,12 +216,6 @@
     "url": "https://github.com/insightsengineering/teal.transform",
     "via": ["teal.osprey"],
     "from": "teal.osprey"
-  },
-  {
-    "package": "teal.widgets",
-    "url": "https://github.com/insightsengineering/teal.widgets",
-    "via": ["teal.modules.clinical", "teal.transform", "teal.slice"],
-    "from": "teal.modules.clinical"
   },
   {
     "package": "teal.widgets",
@@ -300,12 +246,6 @@
     "url": "https://github.com/insightsengineering/teal.widgets",
     "via": ["teal.transform", "teal.slice"],
     "from": "teal.transform"
-  },
-  {
-    "package": "tern",
-    "url": "https://github.com/insightsengineering/tern",
-    "via": ["teal.modules.clinical", "tern.gee"],
-    "from": "teal.modules.clinical"
   },
   {
     "package": "tern",
@@ -342,17 +282,5 @@
     "url": "https://github.com/insightsengineering/tern",
     "via": ["tern.rbmi"],
     "from": "tern.rbmi"
-  },
-  {
-    "package": "tern.gee",
-    "url": "https://github.com/insightsengineering/tern.gee",
-    "via": ["teal.modules.clinical"],
-    "from": "teal.modules.clinical"
-  },
-  {
-    "package": "tern.mmrm",
-    "url": "https://github.com/insightsengineering/tern.mmrm",
-    "via": ["teal.modules.clinical"],
-    "from": "teal.modules.clinical"
   }
 ]
