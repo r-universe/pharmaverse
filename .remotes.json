@@ -19,12 +19,6 @@
     "from": "uniCATE"
   },
   {
-    "package": "hermes",
-    "url": "https://github.com/insightsengineering/hermes",
-    "via": ["teal.modules.hermes"],
-    "from": "teal.modules.hermes"
-  },
-  {
     "package": "mmrm",
     "url": "https://github.com/openpharma/mmrm",
     "via": ["tern.mmrm"],
@@ -58,20 +52,8 @@
   {
     "package": "teal",
     "url": "https://github.com/insightsengineering/teal",
-    "via": ["teal.modules.hermes"],
-    "from": "teal.modules.hermes"
-  },
-  {
-    "package": "teal",
-    "url": "https://github.com/insightsengineering/teal",
     "via": ["teal.osprey"],
     "from": "teal.osprey"
-  },
-  {
-    "package": "teal.code",
-    "url": "https://github.com/insightsengineering/teal.code",
-    "via": ["teal.modules.hermes", "teal"],
-    "from": "teal.modules.hermes"
   },
   {
     "package": "teal.code",
@@ -84,12 +66,6 @@
     "url": "https://github.com/insightsengineering/teal.code",
     "via": ["teal.transform"],
     "from": "teal.transform"
-  },
-  {
-    "package": "teal.data",
-    "url": "https://github.com/insightsengineering/teal.data",
-    "via": ["teal.modules.hermes"],
-    "from": "teal.modules.hermes"
   },
   {
     "package": "teal.data",
@@ -108,12 +84,6 @@
     "url": "https://github.com/insightsengineering/teal.data",
     "via": ["teal.transform"],
     "from": "teal.transform"
-  },
-  {
-    "package": "teal.logger",
-    "url": "https://github.com/insightsengineering/teal.logger",
-    "via": ["teal.modules.hermes", "teal.data"],
-    "from": "teal.modules.hermes"
   },
   {
     "package": "teal.logger",
@@ -136,20 +106,8 @@
   {
     "package": "teal.reporter",
     "url": "https://github.com/insightsengineering/teal.reporter",
-    "via": ["teal.modules.hermes"],
-    "from": "teal.modules.hermes"
-  },
-  {
-    "package": "teal.reporter",
-    "url": "https://github.com/insightsengineering/teal.reporter",
     "via": ["teal.osprey"],
     "from": "teal.osprey"
-  },
-  {
-    "package": "teal.slice",
-    "url": "https://github.com/insightsengineering/teal.slice",
-    "via": ["teal.modules.hermes", "teal"],
-    "from": "teal.modules.hermes"
   },
   {
     "package": "teal.slice",
@@ -166,20 +124,8 @@
   {
     "package": "teal.transform",
     "url": "https://github.com/insightsengineering/teal.transform",
-    "via": ["teal.modules.hermes", "teal"],
-    "from": "teal.modules.hermes"
-  },
-  {
-    "package": "teal.transform",
-    "url": "https://github.com/insightsengineering/teal.transform",
     "via": ["teal.osprey"],
     "from": "teal.osprey"
-  },
-  {
-    "package": "teal.widgets",
-    "url": "https://github.com/insightsengineering/teal.widgets",
-    "via": ["teal.modules.hermes"],
-    "from": "teal.modules.hermes"
   },
   {
     "package": "teal.widgets",
@@ -198,12 +144,6 @@
     "url": "https://github.com/insightsengineering/teal.widgets",
     "via": ["teal.transform", "teal.slice"],
     "from": "teal.transform"
-  },
-  {
-    "package": "tern",
-    "url": "https://github.com/insightsengineering/tern",
-    "via": ["teal.modules.hermes"],
-    "from": "teal.modules.hermes"
   },
   {
     "package": "tern",
