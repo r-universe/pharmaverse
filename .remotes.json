@@ -52,20 +52,8 @@
   {
     "package": "teal.data",
     "url": "https://github.com/insightsengineering/teal.data",
-    "via": ["teal.slice"],
-    "from": "teal.slice"
-  },
-  {
-    "package": "teal.data",
-    "url": "https://github.com/insightsengineering/teal.data",
     "via": ["teal.transform"],
     "from": "teal.transform"
-  },
-  {
-    "package": "teal.logger",
-    "url": "https://github.com/insightsengineering/teal.logger",
-    "via": ["teal.slice", "teal.data"],
-    "from": "teal.slice"
   },
   {
     "package": "teal.logger",
@@ -78,12 +66,6 @@
     "url": "https://github.com/insightsengineering/teal.slice",
     "via": ["teal.transform"],
     "from": "teal.transform"
-  },
-  {
-    "package": "teal.widgets",
-    "url": "https://github.com/insightsengineering/teal.widgets",
-    "via": ["teal.slice"],
-    "from": "teal.slice"
   },
   {
     "package": "teal.widgets",
