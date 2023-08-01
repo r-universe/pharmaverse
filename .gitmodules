@@ -2,36 +2,55 @@
 	path = .registry
 	url = https://github.com/pharmaverse/pharmaverse.r-universe.dev
 	branch = HEAD
+[submodule "CTP"]
+	path = CTP
+	url = https://github.com/openpharma/CTP
+[submodule "MAIC"]
+	path = MAIC
+	url = https://github.com/Roche/MAIC
+[submodule "RDO"]
+	path = RDO
+	url = https://github.com/openpharma/RDO
+[submodule "Tplyr"]
+	path = Tplyr
+	url = https://github.com/atorus-research/Tplyr
 [submodule "admiral"]
 	path = admiral
 	url = https://github.com/pharmaverse/admiral
 [submodule "admiral.test"]
 	path = admiral.test
 	url = https://github.com/pharmaverse/admiral.test
-[submodule "admiraltemplate"]
-	path = admiraltemplate
-	url = https://github.com/pharmaverse/admiraltemplate
 [submodule "admiralonco"]
 	path = admiralonco
 	url = https://github.com/pharmaverse/admiralonco
 [submodule "admiralophtha"]
 	path = admiralophtha
 	url = https://github.com/pharmaverse/admiralophtha
+[submodule "admiraltemplate"]
+	path = admiraltemplate
+	url = https://github.com/pharmaverse/admiraltemplate
 [submodule "admiralvaccine"]
 	path = admiralvaccine
 	url = https://github.com/pharmaverse/admiralvaccine
+[submodule "covr"]
+	path = covr
+	url = https://github.com/r-lib/covr
+	registered = false
+[submodule "covtracer"]
+	path = covtracer
+	url = https://github.com/Genentech/covtracer
 [submodule "crmPack"]
 	path = crmPack
 	url = https://github.com/Roche/crmPack
-[submodule "CTP"]
-	path = CTP
-	url = https://github.com/openpharma/CTP
 [submodule "datacutr"]
 	path = datacutr
 	url = https://github.com/pharmaverse/datacutr
 [submodule "descem"]
 	path = descem
 	url = https://github.com/Roche/descem
+[submodule "envsetup"]
+	path = envsetup
+	url = https://github.com/pharmaverse/envsetup
 [submodule "facetsr"]
 	path = facetsr
 	url = https://github.com/openpharma/facetsr
@@ -47,21 +66,30 @@
 [submodule "ggplot2.utils"]
 	path = ggplot2.utils
 	url = https://github.com/insightsengineering/ggplot2.utils
+[submodule "ggsurvfit"]
+	path = ggsurvfit
+	url = https://github.com/pharmaverse/ggsurvfit
 [submodule "ggtips"]
 	path = ggtips
 	url = https://github.com/Roche/ggtips
 [submodule "goshawk"]
 	path = goshawk
 	url = https://github.com/insightsengineering/goshawk
+[submodule "hal9001"]
+	path = hal9001
+	url = https://github.com/tlverse/hal9001
+	branch = devel
+	registered = false
+[submodule "haldensify"]
+	path = haldensify
+	url = https://github.com/nhejazi/haldensify
+	registered = false
 [submodule "hermes"]
 	path = hermes
 	url = https://github.com/insightsengineering/hermes
 [submodule "logrx"]
 	path = logrx
 	url = https://github.com/pharmaverse/logrx
-[submodule "MAIC"]
-	path = MAIC
-	url = https://github.com/Roche/MAIC
 [submodule "metacore"]
 	path = metacore
 	url = https://github.com/atorus-research/metacore
@@ -80,6 +108,10 @@
 [submodule "nesttemplate"]
 	path = nesttemplate
 	url = https://github.com/insightsengineering/nesttemplate
+[submodule "origami"]
+	path = origami
+	url = https://github.com/tlverse/origami
+	registered = false
 [submodule "osprey"]
 	path = osprey
 	url = https://github.com/insightsengineering/osprey
@@ -98,12 +130,12 @@
 [submodule "rbmi"]
 	path = rbmi
 	url = https://github.com/insightsengineering/rbmi
-[submodule "RDO"]
-	path = RDO
-	url = https://github.com/openpharma/RDO
 [submodule "respectables"]
 	path = respectables
 	url = https://github.com/Roche/respectables
+[submodule "riskassessment"]
+	path = riskassessment
+	url = https://github.com/pharmaR/riskassessment
 [submodule "rlistings"]
 	path = rlistings
 	url = https://github.com/insightsengineering/rlistings
@@ -128,12 +160,17 @@
 [submodule "sdtmchecks"]
 	path = sdtmchecks
 	url = https://github.com/pharmaverse/sdtmchecks
-[submodule "simaerep"]
-	path = simaerep
-	url = https://github.com/openpharma/simaerep
 [submodule "simIDM"]
 	path = simIDM
 	url = https://github.com/insightsengineering/simIDM
+[submodule "simaerep"]
+	path = simaerep
+	url = https://github.com/openpharma/simaerep
+[submodule "sl3"]
+	path = sl3
+	url = https://github.com/tlverse/sl3
+	branch = v1.4.4
+	registered = false
 [submodule "staged.dependencies"]
 	path = staged.dependencies
 	url = https://github.com/openpharma/staged.dependencies
@@ -194,27 +231,6 @@
 [submodule "tern.rbmi"]
 	path = tern.rbmi
 	url = https://github.com/insightsengineering/tern.rbmi
-[submodule "Tplyr"]
-	path = Tplyr
-	url = https://github.com/atorus-research/Tplyr
-[submodule "uniCATE"]
-	path = uniCATE
-	url = https://github.com/insightsengineering/uniCATE
-[submodule "visR"]
-	path = visR
-	url = https://github.com/openpharma/visR
-[submodule "xportr"]
-	path = xportr
-	url = https://github.com/atorus-research/xportr
-[submodule "covtracer"]
-	path = covtracer
-	url = https://github.com/Genentech/covtracer
-[submodule "envsetup"]
-	path = envsetup
-	url = https://github.com/pharmaverse/envsetup
-[submodule "riskassessment"]
-	path = riskassessment
-	url = https://github.com/pharmaR/riskassessment
 [submodule "tfrmt"]
 	path = tfrmt
 	url = https://github.com/GSK-Biostatistics/tfrmt
@@ -224,31 +240,15 @@
 [submodule "tidytlg"]
 	path = tidytlg
 	url = https://github.com/pharmaverse/tidytlg
+[submodule "uniCATE"]
+	path = uniCATE
+	url = https://github.com/insightsengineering/uniCATE
 [submodule "valtools"]
 	path = valtools
 	url = https://github.com/phuse-org/valtools
-[submodule "ggsurvfit"]
-	path = ggsurvfit
-	url = https://github.com/pharmaverse/ggsurvfit
-[submodule "covr"]
-	path = covr
-	url = https://github.com/r-lib/covr
-	registered = false
-[submodule "hal9001"]
-	path = hal9001
-	url = https://github.com/tlverse/hal9001
-	branch = devel
-	registered = false
-[submodule "haldensify"]
-	path = haldensify
-	url = https://github.com/nhejazi/haldensify
-	registered = false
-[submodule "origami"]
-	path = origami
-	url = https://github.com/tlverse/origami
-	registered = false
-[submodule "sl3"]
-	path = sl3
-	url = https://github.com/tlverse/sl3
-	branch = v1.4.4
-	registered = false
+[submodule "visR"]
+	path = visR
+	url = https://github.com/openpharma/visR
+[submodule "xportr"]
+	path = xportr
+	url = https://github.com/atorus-research/xportr
