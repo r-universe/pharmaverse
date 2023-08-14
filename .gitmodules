@@ -2,33 +2,18 @@
 	path = .registry
 	url = https://github.com/pharmaverse/pharmaverse.r-universe.dev
 	branch = HEAD
-[submodule "CTP"]
-	path = CTP
-	url = https://github.com/openpharma/CTP
-[submodule "MAIC"]
-	path = MAIC
-	url = https://github.com/Roche/MAIC
-[submodule "RDO"]
-	path = RDO
-	url = https://github.com/openpharma/RDO
 [submodule "Tplyr"]
 	path = Tplyr
 	url = https://github.com/atorus-research/Tplyr
 [submodule "admiral"]
 	path = admiral
 	url = https://github.com/pharmaverse/admiral
-[submodule "admiral.test"]
-	path = admiral.test
-	url = https://github.com/pharmaverse/admiral.test
 [submodule "admiralonco"]
 	path = admiralonco
 	url = https://github.com/pharmaverse/admiralonco
 [submodule "admiralophtha"]
 	path = admiralophtha
 	url = https://github.com/pharmaverse/admiralophtha
-[submodule "admiraltemplate"]
-	path = admiraltemplate
-	url = https://github.com/pharmaverse/admiraltemplate
 [submodule "admiralvaccine"]
 	path = admiralvaccine
 	url = https://github.com/pharmaverse/admiralvaccine
@@ -39,42 +24,15 @@
 [submodule "covtracer"]
 	path = covtracer
 	url = https://github.com/Genentech/covtracer
-[submodule "crmPack"]
-	path = crmPack
-	url = https://github.com/Roche/crmPack
 [submodule "datacutr"]
 	path = datacutr
 	url = https://github.com/pharmaverse/datacutr
-[submodule "descem"]
-	path = descem
-	url = https://github.com/Roche/descem
 [submodule "envsetup"]
 	path = envsetup
 	url = https://github.com/pharmaverse/envsetup
-[submodule "facetsr"]
-	path = facetsr
-	url = https://github.com/openpharma/facetsr
-[submodule "flexsurvPlus"]
-	path = flexsurvPlus
-	url = https://github.com/Roche/flexsurvPlus
-[submodule "formatters"]
-	path = formatters
-	url = https://github.com/insightsengineering/formatters
-[submodule "gemtcPlus"]
-	path = gemtcPlus
-	url = https://github.com/Roche/gemtcPlus
-[submodule "ggplot2.utils"]
-	path = ggplot2.utils
-	url = https://github.com/insightsengineering/ggplot2.utils
 [submodule "ggsurvfit"]
 	path = ggsurvfit
 	url = https://github.com/pharmaverse/ggsurvfit
-[submodule "ggtips"]
-	path = ggtips
-	url = https://github.com/Roche/ggtips
-[submodule "goshawk"]
-	path = goshawk
-	url = https://github.com/insightsengineering/goshawk
 [submodule "hal9001"]
 	path = hal9001
 	url = https://github.com/tlverse/hal9001
@@ -84,9 +42,6 @@
 	path = haldensify
 	url = https://github.com/nhejazi/haldensify
 	registered = false
-[submodule "hermes"]
-	path = hermes
-	url = https://github.com/insightsengineering/hermes
 [submodule "logrx"]
 	path = logrx
 	url = https://github.com/pharmaverse/logrx
@@ -99,150 +54,56 @@
 [submodule "mmrm"]
 	path = mmrm
 	url = https://github.com/openpharma/mmrm
-[submodule "mtdesign"]
-	path = mtdesign
-	url = https://github.com/openpharma/mtdesign
-[submodule "nestcolor"]
-	path = nestcolor
-	url = https://github.com/insightsengineering/nestcolor
-[submodule "nesttemplate"]
-	path = nesttemplate
-	url = https://github.com/insightsengineering/nesttemplate
+	registered = false
 [submodule "origami"]
 	path = origami
 	url = https://github.com/tlverse/origami
 	registered = false
-[submodule "osprey"]
-	path = osprey
-	url = https://github.com/insightsengineering/osprey
 [submodule "pharmaRTF"]
 	path = pharmaRTF
 	url = https://github.com/atorus-research/pharmaRTF
-[submodule "psborrow"]
-	path = psborrow
-	url = https://github.com/Genentech/psborrow
-[submodule "r.pkg.template"]
-	path = r.pkg.template
-	url = https://github.com/insightsengineering/r.pkg.template
-[submodule "r2rtf"]
-	path = r2rtf
-	url = https://github.com/Merck/r2rtf
-[submodule "rbmi"]
-	path = rbmi
-	url = https://github.com/insightsengineering/rbmi
-[submodule "respectables"]
-	path = respectables
-	url = https://github.com/Roche/respectables
+[submodule "pkglite"]
+	path = pkglite
+	url = https://github.com/Merck/pkglite
 [submodule "riskassessment"]
 	path = riskassessment
 	url = https://github.com/pharmaR/riskassessment
-[submodule "rlistings"]
-	path = rlistings
-	url = https://github.com/insightsengineering/rlistings
-[submodule "rpsftmPlus"]
-	path = rpsftmPlus
-	url = https://github.com/Roche/rpsftmPlus
+[submodule "riskmetric"]
+	path = riskmetric
+	url = https://github.com/pharmaR/riskmetric
 [submodule "rtables"]
 	path = rtables
 	url = https://github.com/insightsengineering/rtables
-[submodule "scda"]
-	path = scda
-	url = https://github.com/insightsengineering/scda
-[submodule "scda.2021"]
-	path = scda.2021
-	url = https://github.com/insightsengineering/scda.2021
 [submodule "scda.2022"]
 	path = scda.2022
 	url = https://github.com/insightsengineering/scda.2022
-[submodule "scda.test"]
-	path = scda.test
-	url = https://github.com/insightsengineering/scda.test
+	registered = false
 [submodule "sdtmchecks"]
 	path = sdtmchecks
 	url = https://github.com/pharmaverse/sdtmchecks
-[submodule "simIDM"]
-	path = simIDM
-	url = https://github.com/insightsengineering/simIDM
-[submodule "simaerep"]
-	path = simaerep
-	url = https://github.com/openpharma/simaerep
 [submodule "sl3"]
 	path = sl3
 	url = https://github.com/tlverse/sl3
 	branch = v1.4.4
 	registered = false
-[submodule "staged.dependencies"]
-	path = staged.dependencies
-	url = https://github.com/openpharma/staged.dependencies
-[submodule "synthetic.cdisc.data"]
-	path = synthetic.cdisc.data
-	url = https://github.com/Roche/synthetic.cdisc.data
-[submodule "syntrial"]
-	path = syntrial
-	url = https://github.com/openpharma/syntrial
 [submodule "teal"]
 	path = teal
 	url = https://github.com/insightsengineering/teal
-[submodule "teal.code"]
-	path = teal.code
-	url = https://github.com/insightsengineering/teal.code
-[submodule "teal.data"]
-	path = teal.data
-	url = https://github.com/insightsengineering/teal.data
-[submodule "teal.goshawk"]
-	path = teal.goshawk
-	url = https://github.com/insightsengineering/teal.goshawk
-[submodule "teal.logger"]
-	path = teal.logger
-	url = https://github.com/insightsengineering/teal.logger
-[submodule "teal.modules.clinical"]
-	path = teal.modules.clinical
-	url = https://github.com/insightsengineering/teal.modules.clinical
-[submodule "teal.modules.general"]
-	path = teal.modules.general
-	url = https://github.com/insightsengineering/teal.modules.general
-[submodule "teal.modules.hermes"]
-	path = teal.modules.hermes
-	url = https://github.com/insightsengineering/teal.modules.hermes
-[submodule "teal.osprey"]
-	path = teal.osprey
-	url = https://github.com/insightsengineering/teal.osprey
-[submodule "teal.reporter"]
-	path = teal.reporter
-	url = https://github.com/insightsengineering/teal.reporter
-[submodule "teal.slice"]
-	path = teal.slice
-	url = https://github.com/insightsengineering/teal.slice
-[submodule "teal.transform"]
-	path = teal.transform
-	url = https://github.com/insightsengineering/teal.transform
-[submodule "teal.widgets"]
-	path = teal.widgets
-	url = https://github.com/insightsengineering/teal.widgets
 [submodule "tern"]
 	path = tern
 	url = https://github.com/insightsengineering/tern
-[submodule "tern.gee"]
-	path = tern.gee
-	url = https://github.com/insightsengineering/tern.gee
-[submodule "tern.mmrm"]
-	path = tern.mmrm
-	url = https://github.com/insightsengineering/tern.mmrm
-[submodule "tern.rbmi"]
-	path = tern.rbmi
-	url = https://github.com/insightsengineering/tern.rbmi
 [submodule "tfrmt"]
 	path = tfrmt
 	url = https://github.com/GSK-Biostatistics/tfrmt
+[submodule "thevalidatoR"]
+	path = thevalidatoR
+	url = https://github.com/insightsengineering/thevalidatoR
 [submodule "tidyCDISC"]
 	path = tidyCDISC
 	url = https://github.com/Biogen-Inc/tidyCDISC
 [submodule "tidytlg"]
 	path = tidytlg
 	url = https://github.com/pharmaverse/tidytlg
-[submodule "uniCATE"]
-	path = uniCATE
-	url = https://github.com/insightsengineering/uniCATE
 [submodule "valtools"]
 	path = valtools
 	url = https://github.com/phuse-org/valtools
