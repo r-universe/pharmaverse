@@ -33,15 +33,6 @@
 [submodule "ggsurvfit"]
 	path = ggsurvfit
 	url = https://github.com/pharmaverse/ggsurvfit
-[submodule "hal9001"]
-	path = hal9001
-	url = https://github.com/tlverse/hal9001
-	branch = devel
-	registered = false
-[submodule "haldensify"]
-	path = haldensify
-	url = https://github.com/nhejazi/haldensify
-	registered = false
 [submodule "logrx"]
 	path = logrx
 	url = https://github.com/pharmaverse/logrx
@@ -51,14 +42,6 @@
 [submodule "metatools"]
 	path = metatools
 	url = https://github.com/pharmaverse/metatools
-[submodule "mmrm"]
-	path = mmrm
-	url = https://github.com/openpharma/mmrm
-	registered = false
-[submodule "origami"]
-	path = origami
-	url = https://github.com/tlverse/origami
-	registered = false
 [submodule "pharmaRTF"]
 	path = pharmaRTF
 	url = https://github.com/atorus-research/pharmaRTF
@@ -74,18 +57,9 @@
 [submodule "rtables"]
 	path = rtables
 	url = https://github.com/insightsengineering/rtables
-[submodule "scda.2022"]
-	path = scda.2022
-	url = https://github.com/insightsengineering/scda.2022
-	registered = false
 [submodule "sdtmchecks"]
 	path = sdtmchecks
 	url = https://github.com/pharmaverse/sdtmchecks
-[submodule "sl3"]
-	path = sl3
-	url = https://github.com/tlverse/sl3
-	branch = v1.4.4
-	registered = false
 [submodule "teal"]
 	path = teal
 	url = https://github.com/insightsengineering/teal
