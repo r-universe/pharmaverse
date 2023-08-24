@@ -118,6 +118,9 @@
 [submodule "pharmaRTF"]
 	path = pharmaRTF
 	url = https://github.com/atorus-research/pharmaRTF
+[submodule "pharmaversesdtm"]
+	path = pharmaversesdtm
+	url = https://github.com/pharmaverse/pharmaversesdtm
 [submodule "psborrow"]
 	path = psborrow
 	url = https://github.com/Genentech/psborrow
