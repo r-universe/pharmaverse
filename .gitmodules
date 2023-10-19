@@ -139,6 +139,10 @@
 [submodule "riskassessment"]
 	path = riskassessment
 	url = https://github.com/pharmaR/riskassessment
+[submodule "riskmetric"]
+	path = riskmetric
+	url = https://github.com/pharmaR/riskmetric
+	registered = false
 [submodule "rlistings"]
 	path = rlistings
 	url = https://github.com/insightsengineering/rlistings
