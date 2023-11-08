@@ -19,12 +19,6 @@
     "from": "uniCATE"
   },
   {
-    "package": "mmrm",
-    "url": "https://github.com/openpharma/mmrm",
-    "via": ["tern.mmrm"],
-    "from": "tern.mmrm"
-  },
-  {
     "package": "origami",
     "url": "https://github.com/tlverse/origami",
     "via": ["uniCATE", "sl3"],
