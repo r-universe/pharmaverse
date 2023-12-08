@@ -52,12 +52,6 @@
   {
     "package": "tern",
     "url": "https://github.com/insightsengineering/tern",
-    "via": ["tern.gee"],
-    "from": "tern.gee"
-  },
-  {
-    "package": "tern",
-    "url": "https://github.com/insightsengineering/tern",
     "via": ["tern.mmrm"],
     "from": "tern.mmrm"
   },
