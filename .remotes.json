@@ -1,11 +1,5 @@
 [
   {
-    "package": "admiraldev",
-    "url": "https://github.com/pharmaverse/admiraldev",
-    "via": ["admiral"],
-    "from": "admiral"
-  },
-  {
     "package": "covr",
     "url": "https://github.com/r-lib/covr",
     "via": ["covtracer"],
