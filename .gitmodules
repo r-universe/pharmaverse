@@ -32,10 +32,6 @@
 [submodule "admiralvaccine"]
 	path = admiralvaccine
 	url = https://github.com/pharmaverse/admiralvaccine
-[submodule "covr"]
-	path = covr
-	url = https://github.com/r-lib/covr
-	registered = false
 [submodule "covtracer"]
 	path = covtracer
 	url = https://github.com/Genentech/covtracer

@@ -1,11 +1,5 @@
 [
   {
-    "package": "covr",
-    "url": "https://github.com/r-lib/covr",
-    "via": ["covtracer"],
-    "from": "covtracer"
-  },
-  {
     "package": "hal9001",
     "url": "https://github.com/tlverse/hal9001",
     "via": ["uniCATE", "sl3"],
