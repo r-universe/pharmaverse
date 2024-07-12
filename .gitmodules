@@ -26,9 +26,6 @@
 [submodule "admiralophtha"]
 	path = admiralophtha
 	url = https://github.com/pharmaverse/admiralophtha
-[submodule "admiraltemplate"]
-	path = admiraltemplate
-	url = https://github.com/pharmaverse/admiraltemplate
 [submodule "admiralvaccine"]
 	path = admiralvaccine
 	url = https://github.com/pharmaverse/admiralvaccine
