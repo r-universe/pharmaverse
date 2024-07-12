@@ -32,6 +32,15 @@
 [submodule "admiralvaccine"]
 	path = admiralvaccine
 	url = https://github.com/pharmaverse/admiralvaccine
+[submodule "cards"]
+	path = cards
+	url = https://github.com/insightsengineering/cards
+[submodule "cardx"]
+	path = cardx
+	url = https://github.com/insightsengineering/cardx
+[submodule "chevron"]
+	path = chevron
+	url = https://github.com/insightsengineering/chevron
 [submodule "covtracer"]
 	path = covtracer
 	url = https://github.com/Genentech/covtracer
@@ -44,6 +53,9 @@
 [submodule "descem"]
 	path = descem
 	url = https://github.com/Roche/descem
+[submodule "dunlin"]
+	path = dunlin
+	url = https://github.com/insightsengineering/dunlin
 [submodule "envsetup"]
 	path = envsetup
 	url = https://github.com/pharmaverse/envsetup
@@ -65,9 +77,6 @@
 [submodule "ggsurvfit"]
 	path = ggsurvfit
 	url = https://github.com/pharmaverse/ggsurvfit
-[submodule "ggtips"]
-	path = ggtips
-	url = https://github.com/Roche/ggtips
 [submodule "goshawk"]
 	path = goshawk
 	url = https://github.com/insightsengineering/goshawk
@@ -126,6 +135,9 @@
 [submodule "r2rtf"]
 	path = r2rtf
 	url = https://github.com/Merck/r2rtf
+[submodule "random.cdisc.data"]
+	path = random.cdisc.data
+	url = https://github.com/insightsengineering/random.cdisc.data
 [submodule "rbmi"]
 	path = rbmi
 	url = https://github.com/insightsengineering/rbmi
@@ -157,9 +169,6 @@
 [submodule "scda.2022"]
 	path = scda.2022
 	url = https://github.com/insightsengineering/scda.2022
-[submodule "scda.test"]
-	path = scda.test
-	url = https://github.com/insightsengineering/scda.test
 [submodule "sdtmchecks"]
 	path = sdtmchecks
 	url = https://github.com/pharmaverse/sdtmchecks
@@ -177,9 +186,6 @@
 [submodule "staged.dependencies"]
 	path = staged.dependencies
 	url = https://github.com/openpharma/staged.dependencies
-[submodule "synthetic.cdisc.data"]
-	path = synthetic.cdisc.data
-	url = https://github.com/Roche/synthetic.cdisc.data
 [submodule "syntrial"]
 	path = syntrial
 	url = https://github.com/openpharma/syntrial
@@ -243,9 +249,6 @@
 [submodule "tidytlg"]
 	path = tidytlg
 	url = https://github.com/pharmaverse/tidytlg
-[submodule "uniCATE"]
-	path = uniCATE
-	url = https://github.com/insightsengineering/uniCATE
 [submodule "valtools"]
 	path = valtools
 	url = https://github.com/phuse-org/valtools
