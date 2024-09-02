@@ -1,11 +1,5 @@
 [
   {
-    "package": "cards",
-    "url": "https://github.com/insightsengineering/cards",
-    "via": ["cardx"],
-    "from": "cardx"
-  },
-  {
     "package": "dunlin",
     "url": "https://github.com/insightsengineering/dunlin",
     "via": ["chevron"],
