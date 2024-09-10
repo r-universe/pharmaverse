@@ -1,51 +1,15 @@
 [
   {
-    "package": "dunlin",
-    "url": "https://github.com/insightsengineering/dunlin",
-    "via": ["chevron"],
-    "from": "chevron"
-  },
-  {
-    "package": "formatters",
-    "url": "https://github.com/insightsengineering/formatters",
-    "via": ["chevron"],
-    "from": "chevron"
-  },
-  {
-    "package": "nestcolor",
-    "url": "https://github.com/insightsengineering/nestcolor",
-    "via": ["chevron"],
-    "from": "chevron"
-  },
-  {
     "package": "riskmetric",
     "url": "https://github.com/pharmaR/riskmetric",
     "via": ["riskassessment"],
     "from": "riskassessment"
   },
   {
-    "package": "rlistings",
-    "url": "https://github.com/insightsengineering/rlistings",
-    "via": ["chevron"],
-    "from": "chevron"
-  },
-  {
-    "package": "rtables",
-    "url": "https://github.com/insightsengineering/rtables",
-    "via": ["chevron"],
-    "from": "chevron"
-  },
-  {
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["scda"],
     "from": "scda"
-  },
-  {
-    "package": "tern",
-    "url": "https://github.com/insightsengineering/tern",
-    "via": ["chevron"],
-    "from": "chevron"
   },
   {
     "package": "tern",
