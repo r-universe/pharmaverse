@@ -138,6 +138,9 @@
 [submodule "rlistings"]
 	path = rlistings
 	url = https://github.com/insightsengineering/rlistings
+[submodule "roxy.shinylive"]
+	path = roxy.shinylive
+	url = https://github.com/insightsengineering/roxy.shinylive
 [submodule "rpsftmPlus"]
 	path = rpsftmPlus
 	url = https://github.com/Roche/rpsftmPlus
