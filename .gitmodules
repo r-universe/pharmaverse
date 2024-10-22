@@ -129,10 +129,6 @@
 [submodule "rbmi"]
 	path = rbmi
 	url = https://github.com/insightsengineering/rbmi
-[submodule "renv"]
-	path = renv
-	url = https://github.com/rstudio/renv
-	registered = false
 [submodule "respectables"]
 	path = respectables
 	url = https://github.com/Roche/respectables

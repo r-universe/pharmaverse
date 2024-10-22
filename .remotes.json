@@ -6,12 +6,6 @@
     "from": "roxy.shinylive"
   },
   {
-    "package": "renv",
-    "url": "https://github.com/rstudio/renv",
-    "via": ["teal"],
-    "from": "teal"
-  },
-  {
     "package": "riskmetric",
     "url": "https://github.com/pharmaR/riskmetric",
     "via": ["riskassessment"],
