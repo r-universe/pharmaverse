@@ -83,10 +83,6 @@
 [submodule "logrx"]
 	path = logrx
 	url = https://github.com/pharmaverse/logrx
-[submodule "lzstring"]
-	path = lzstring
-	url = https://github.com/parmsam/lzstring-r
-	registered = false
 [submodule "metacore"]
 	path = metacore
 	url = https://github.com/atorus-research/metacore

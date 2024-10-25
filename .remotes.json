@@ -1,11 +1,5 @@
 [
   {
-    "package": "lzstring",
-    "url": "https://github.com/parmsam/lzstring-r",
-    "via": ["roxy.shinylive"],
-    "from": "roxy.shinylive"
-  },
-  {
     "package": "riskmetric",
     "url": "https://github.com/pharmaR/riskmetric",
     "via": ["riskassessment"],
