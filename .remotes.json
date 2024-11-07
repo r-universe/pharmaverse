@@ -1,5 +1,11 @@
 [
   {
+    "package": "admiraldev",
+    "url": "https://github.com/pharmaverse/admiraldev",
+    "via": ["admiral"],
+    "from": "admiral"
+  },
+  {
     "package": "riskmetric",
     "url": "https://github.com/pharmaR/riskmetric",
     "via": ["riskassessment"],
