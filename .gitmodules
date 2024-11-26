@@ -33,6 +33,9 @@
 [submodule "admiralvaccine"]
 	path = admiralvaccine
 	url = https://github.com/pharmaverse/admiralvaccine
+[submodule "autoslider.core"]
+	path = autoslider.core
+	url = https://github.com/insightsengineering/autoslider.core
 [submodule "cards"]
 	path = cards
 	url = https://github.com/insightsengineering/cards
@@ -111,6 +114,9 @@
 [submodule "pharmaRTF"]
 	path = pharmaRTF
 	url = https://github.com/atorus-research/pharmaRTF
+[submodule "pharmaverseadam"]
+	path = pharmaverseadam
+	url = https://github.com/pharmaverse/pharmaverseadam
 [submodule "pharmaversesdtm"]
 	path = pharmaversesdtm
 	url = https://github.com/pharmaverse/pharmaversesdtm
@@ -151,6 +157,9 @@
 [submodule "rtables"]
 	path = rtables
 	url = https://github.com/insightsengineering/rtables
+[submodule "rtables.officer"]
+	path = rtables.officer
+	url = https://github.com/insightsengineering/rtables.officer
 [submodule "scda"]
 	path = scda
 	url = https://github.com/insightsengineering/scda
