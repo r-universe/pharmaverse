@@ -12,6 +12,12 @@
     "from": "riskassessment"
   },
   {
+    "package": "rtables.officer",
+    "url": "https://github.com/insightsengineering/rtables.officer",
+    "via": ["teal.reporter"],
+    "from": "teal.reporter"
+  },
+  {
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["scda"],
