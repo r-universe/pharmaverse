@@ -12,6 +12,13 @@
     "from": "riskassessment"
   },
   {
+    "package": "rtables",
+    "url": "https://github.com/insightsengineering/rtables",
+    "via": ["rtables.officer"],
+    "branch": "main",
+    "from": "rtables.officer"
+  },
+  {
     "package": "rtables.officer",
     "url": "https://github.com/insightsengineering/rtables.officer",
     "via": ["teal.reporter"],
