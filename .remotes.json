@@ -19,6 +19,13 @@
     "from": "rtables.officer"
   },
   {
+    "package": "rtables",
+    "url": "https://github.com/insightsengineering/rtables",
+    "via": ["teal.reporter", "rtables.officer"],
+    "branch": "main",
+    "from": "teal.reporter"
+  },
+  {
     "package": "rtables.officer",
     "url": "https://github.com/insightsengineering/rtables.officer",
     "via": ["teal.reporter"],
