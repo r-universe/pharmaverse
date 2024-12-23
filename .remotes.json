@@ -6,6 +6,12 @@
     "from": "admiral"
   },
   {
+    "package": "goshawk",
+    "url": "https://github.com/insightsengineering/goshawk",
+    "via": ["teal.goshawk"],
+    "from": "teal.goshawk"
+  },
+  {
     "package": "riskmetric",
     "url": "https://github.com/pharmaR/riskmetric",
     "via": ["riskassessment"],
