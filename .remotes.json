@@ -54,7 +54,7 @@
     "package": "tern",
     "url": "https://github.com/insightsengineering/tern",
     "via": ["autoslider.core"],
-    "branch": "upversion_dep",
+    "branch": "main",
     "from": "autoslider.core"
   }
 ]
