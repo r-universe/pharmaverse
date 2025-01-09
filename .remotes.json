@@ -28,7 +28,7 @@
     "package": "rtables",
     "url": "https://github.com/insightsengineering/rtables",
     "via": ["rtables.officer"],
-    "branch": "main",
+    "branch": "981_cran_v0.6.11",
     "from": "rtables.officer"
   },
   {
