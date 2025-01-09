@@ -20,6 +20,13 @@
   {
     "package": "rtables",
     "url": "https://github.com/insightsengineering/rtables",
+    "via": ["autoslider.core"],
+    "branch": "981_cran_v0.6.11",
+    "from": "autoslider.core"
+  },
+  {
+    "package": "rtables",
+    "url": "https://github.com/insightsengineering/rtables",
     "via": ["rtables.officer"],
     "branch": "main",
     "from": "rtables.officer"
@@ -42,5 +49,12 @@
     "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["scda"],
     "from": "scda"
+  },
+  {
+    "package": "tern",
+    "url": "https://github.com/insightsengineering/tern",
+    "via": ["autoslider.core"],
+    "branch": "upversion_dep",
+    "from": "autoslider.core"
   }
 ]
