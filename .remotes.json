@@ -1,11 +1,5 @@
 [
   {
-    "package": "admiraldev",
-    "url": "https://github.com/pharmaverse/admiraldev",
-    "via": ["admiral"],
-    "from": "admiral"
-  },
-  {
     "package": "goshawk",
     "url": "https://github.com/insightsengineering/goshawk",
     "via": ["teal.goshawk"],
