@@ -20,6 +20,12 @@
   {
     "package": "rtables.officer",
     "url": "https://github.com/insightsengineering/rtables.officer",
+    "via": ["teal", "teal.reporter"],
+    "from": "teal"
+  },
+  {
+    "package": "rtables.officer",
+    "url": "https://github.com/insightsengineering/rtables.officer",
     "via": ["teal.reporter"],
     "from": "teal.reporter"
   },
@@ -28,5 +34,29 @@
     "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["scda"],
     "from": "scda"
+  },
+  {
+    "package": "teal.code",
+    "url": "https://github.com/insightsengineering/teal.code",
+    "via": ["teal"],
+    "from": "teal"
+  },
+  {
+    "package": "teal.data",
+    "url": "https://github.com/insightsengineering/teal.data",
+    "via": ["teal"],
+    "from": "teal"
+  },
+  {
+    "package": "teal.reporter",
+    "url": "https://github.com/insightsengineering/teal.reporter",
+    "via": ["teal"],
+    "from": "teal"
+  },
+  {
+    "package": "teal.slice",
+    "url": "https://github.com/insightsengineering/teal.slice",
+    "via": ["teal"],
+    "from": "teal"
   }
 ]
