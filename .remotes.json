@@ -92,12 +92,6 @@
   {
     "package": "teal.reporter",
     "url": "https://github.com/insightsengineering/teal.reporter",
-    "via": ["teal"],
-    "from": "teal"
-  },
-  {
-    "package": "teal.reporter",
-    "url": "https://github.com/insightsengineering/teal.reporter",
     "via": ["teal.modules.clinical", "teal"],
     "from": "teal.modules.clinical"
   },
