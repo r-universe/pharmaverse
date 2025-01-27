@@ -98,7 +98,7 @@
   {
     "package": "teal.reporter",
     "url": "https://github.com/insightsengineering/teal.reporter",
-    "via": ["teal.modules.general", "teal"],
+    "via": ["teal.modules.general"],
     "from": "teal.modules.general"
   },
   {
