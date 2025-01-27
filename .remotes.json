@@ -36,6 +36,12 @@
     "from": "teal.modules.clinical"
   },
   {
+    "package": "teal",
+    "url": "https://github.com/insightsengineering/teal",
+    "via": ["teal.modules.general"],
+    "from": "teal.modules.general"
+  },
+  {
     "package": "teal.code",
     "url": "https://github.com/insightsengineering/teal.code",
     "via": ["teal"],
@@ -52,6 +58,12 @@
     "url": "https://github.com/insightsengineering/teal.code",
     "via": ["teal.modules.clinical", "teal"],
     "from": "teal.modules.clinical"
+  },
+  {
+    "package": "teal.code",
+    "url": "https://github.com/insightsengineering/teal.code",
+    "via": ["teal.modules.general", "teal"],
+    "from": "teal.modules.general"
   },
   {
     "package": "teal.code",
@@ -74,6 +86,12 @@
   {
     "package": "teal.data",
     "url": "https://github.com/insightsengineering/teal.data",
+    "via": ["teal.modules.general", "teal"],
+    "from": "teal.modules.general"
+  },
+  {
+    "package": "teal.data",
+    "url": "https://github.com/insightsengineering/teal.data",
     "via": ["teal.transform"],
     "from": "teal.transform"
   },
@@ -90,6 +108,12 @@
     "from": "teal.modules.clinical"
   },
   {
+    "package": "teal.reporter",
+    "url": "https://github.com/insightsengineering/teal.reporter",
+    "via": ["teal.modules.general", "teal"],
+    "from": "teal.modules.general"
+  },
+  {
     "package": "teal.slice",
     "url": "https://github.com/insightsengineering/teal.slice",
     "via": ["teal"],
@@ -102,10 +126,22 @@
     "from": "teal.modules.clinical"
   },
   {
+    "package": "teal.slice",
+    "url": "https://github.com/insightsengineering/teal.slice",
+    "via": ["teal.modules.general", "teal"],
+    "from": "teal.modules.general"
+  },
+  {
     "package": "teal.transform",
     "url": "https://github.com/insightsengineering/teal.transform",
     "via": ["teal.modules.clinical"],
     "from": "teal.modules.clinical"
+  },
+  {
+    "package": "teal.transform",
+    "url": "https://github.com/insightsengineering/teal.transform",
+    "via": ["teal.modules.general"],
+    "from": "teal.modules.general"
   },
   {
     "package": "teal.widgets",
