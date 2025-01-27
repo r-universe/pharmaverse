@@ -30,6 +30,12 @@
     "from": "scda"
   },
   {
+    "package": "teal",
+    "url": "https://github.com/insightsengineering/teal",
+    "via": ["teal.modules.clinical"],
+    "from": "teal.modules.clinical"
+  },
+  {
     "package": "teal.code",
     "url": "https://github.com/insightsengineering/teal.code",
     "via": ["teal"],
@@ -40,6 +46,12 @@
     "url": "https://github.com/insightsengineering/teal.code",
     "via": ["teal.data"],
     "from": "teal.data"
+  },
+  {
+    "package": "teal.code",
+    "url": "https://github.com/insightsengineering/teal.code",
+    "via": ["teal.modules.clinical", "teal"],
+    "from": "teal.modules.clinical"
   },
   {
     "package": "teal.code",
@@ -56,6 +68,12 @@
   {
     "package": "teal.data",
     "url": "https://github.com/insightsengineering/teal.data",
+    "via": ["teal.modules.clinical", "teal"],
+    "from": "teal.modules.clinical"
+  },
+  {
+    "package": "teal.data",
+    "url": "https://github.com/insightsengineering/teal.data",
     "via": ["teal.transform"],
     "from": "teal.transform"
   },
@@ -66,9 +84,33 @@
     "from": "teal"
   },
   {
+    "package": "teal.reporter",
+    "url": "https://github.com/insightsengineering/teal.reporter",
+    "via": ["teal.modules.clinical", "teal"],
+    "from": "teal.modules.clinical"
+  },
+  {
     "package": "teal.slice",
     "url": "https://github.com/insightsengineering/teal.slice",
     "via": ["teal"],
     "from": "teal"
+  },
+  {
+    "package": "teal.slice",
+    "url": "https://github.com/insightsengineering/teal.slice",
+    "via": ["teal.modules.clinical", "teal"],
+    "from": "teal.modules.clinical"
+  },
+  {
+    "package": "teal.transform",
+    "url": "https://github.com/insightsengineering/teal.transform",
+    "via": ["teal.modules.clinical"],
+    "from": "teal.modules.clinical"
+  },
+  {
+    "package": "teal.widgets",
+    "url": "https://github.com/insightsengineering/teal.widgets",
+    "via": ["teal.modules.clinical"],
+    "from": "teal.modules.clinical"
   }
 ]
