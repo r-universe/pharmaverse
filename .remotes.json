@@ -38,7 +38,7 @@
   {
     "package": "teal.code",
     "url": "https://github.com/insightsengineering/teal.code",
-    "via": ["teal"],
+    "via": ["teal", "teal.data"],
     "from": "teal"
   },
   {
