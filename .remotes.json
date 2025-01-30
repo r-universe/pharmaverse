@@ -36,22 +36,10 @@
     "from": "teal.modules.general"
   },
   {
-    "package": "teal.code",
-    "url": "https://github.com/insightsengineering/teal.code",
-    "via": ["teal.modules.general", "teal", "teal.data"],
-    "from": "teal.modules.general"
-  },
-  {
     "package": "teal.data",
     "url": "https://github.com/insightsengineering/teal.data",
     "via": ["teal.modules.clinical", "teal"],
     "from": "teal.modules.clinical"
-  },
-  {
-    "package": "teal.data",
-    "url": "https://github.com/insightsengineering/teal.data",
-    "via": ["teal.modules.general", "teal"],
-    "from": "teal.modules.general"
   },
   {
     "package": "teal.slice",
