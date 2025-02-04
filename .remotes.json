@@ -12,6 +12,12 @@
     "from": "teal.goshawk"
   },
   {
+    "package": "osprey",
+    "url": "https://github.com/insightsengineering/osprey",
+    "via": ["teal.osprey"],
+    "from": "teal.osprey"
+  },
+  {
     "package": "riskmetric",
     "url": "https://github.com/pharmaR/riskmetric",
     "via": ["riskassessment"],
@@ -42,6 +48,12 @@
     "from": "teal.modules.general"
   },
   {
+    "package": "teal",
+    "url": "https://github.com/insightsengineering/teal",
+    "via": ["teal.osprey"],
+    "from": "teal.osprey"
+  },
+  {
     "package": "teal.slice",
     "url": "https://github.com/insightsengineering/teal.slice",
     "via": ["teal"],
@@ -66,6 +78,12 @@
     "from": "teal.modules.general"
   },
   {
+    "package": "teal.slice",
+    "url": "https://github.com/insightsengineering/teal.slice",
+    "via": ["teal.osprey", "teal"],
+    "from": "teal.osprey"
+  },
+  {
     "package": "teal.transform",
     "url": "https://github.com/insightsengineering/teal.transform",
     "via": ["teal.goshawk"],
@@ -82,6 +100,12 @@
     "url": "https://github.com/insightsengineering/teal.transform",
     "via": ["teal.modules.general"],
     "from": "teal.modules.general"
+  },
+  {
+    "package": "teal.transform",
+    "url": "https://github.com/insightsengineering/teal.transform",
+    "via": ["teal.osprey"],
+    "from": "teal.osprey"
   },
   {
     "package": "teal.widgets",
