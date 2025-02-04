@@ -26,6 +26,12 @@
   {
     "package": "teal",
     "url": "https://github.com/insightsengineering/teal",
+    "via": ["teal.goshawk"],
+    "from": "teal.goshawk"
+  },
+  {
+    "package": "teal",
+    "url": "https://github.com/insightsengineering/teal",
     "via": ["teal.modules.clinical"],
     "from": "teal.modules.clinical"
   },
@@ -44,6 +50,12 @@
   {
     "package": "teal.slice",
     "url": "https://github.com/insightsengineering/teal.slice",
+    "via": ["teal.goshawk", "teal"],
+    "from": "teal.goshawk"
+  },
+  {
+    "package": "teal.slice",
+    "url": "https://github.com/insightsengineering/teal.slice",
     "via": ["teal.modules.clinical", "teal"],
     "from": "teal.modules.clinical"
   },
@@ -52,6 +64,12 @@
     "url": "https://github.com/insightsengineering/teal.slice",
     "via": ["teal.modules.general", "teal"],
     "from": "teal.modules.general"
+  },
+  {
+    "package": "teal.transform",
+    "url": "https://github.com/insightsengineering/teal.transform",
+    "via": ["teal.goshawk"],
+    "from": "teal.goshawk"
   },
   {
     "package": "teal.transform",
