@@ -92,12 +92,6 @@
   {
     "package": "teal.transform",
     "url": "https://github.com/insightsengineering/teal.transform",
-    "via": ["teal.modules.clinical"],
-    "from": "teal.modules.clinical"
-  },
-  {
-    "package": "teal.transform",
-    "url": "https://github.com/insightsengineering/teal.transform",
     "via": ["teal.modules.general"],
     "from": "teal.modules.general"
   },
