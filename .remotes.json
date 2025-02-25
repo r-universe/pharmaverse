@@ -44,12 +44,6 @@
   {
     "package": "teal",
     "url": "https://github.com/insightsengineering/teal",
-    "via": ["teal.goshawk"],
-    "from": "teal.goshawk"
-  },
-  {
-    "package": "teal",
-    "url": "https://github.com/insightsengineering/teal",
     "via": ["teal.modules.hermes"],
     "from": "teal.modules.hermes"
   },
@@ -64,12 +58,6 @@
     "url": "https://github.com/insightsengineering/teal.slice",
     "via": ["teal.osprey", "teal"],
     "from": "teal.osprey"
-  },
-  {
-    "package": "teal.transform",
-    "url": "https://github.com/insightsengineering/teal.transform",
-    "via": ["teal.goshawk"],
-    "from": "teal.goshawk"
   },
   {
     "package": "teal.transform",
