@@ -81,5 +81,12 @@
     "via": ["teal"],
     "branch": "test@bslib@main",
     "from": "teal"
+  },
+  {
+    "package": "tern",
+    "url": "https://github.com/insightsengineering/tern",
+    "via": ["chevron"],
+    "branch": "main",
+    "from": "chevron"
   }
 ]
