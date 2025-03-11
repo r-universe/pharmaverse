@@ -60,5 +60,26 @@
     "url": "https://github.com/insightsengineering/teal",
     "via": ["teal.modules.hermes"],
     "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.reporter",
+    "url": "https://github.com/insightsengineering/teal.reporter",
+    "via": ["teal"],
+    "branch": "test@bslib@main",
+    "from": "teal"
+  },
+  {
+    "package": "teal.slice",
+    "url": "https://github.com/insightsengineering/teal.slice",
+    "via": ["teal"],
+    "branch": "test@bslib@main",
+    "from": "teal"
+  },
+  {
+    "package": "teal.widgets",
+    "url": "https://github.com/insightsengineering/teal.widgets",
+    "via": ["teal"],
+    "branch": "test@bslib@main",
+    "from": "teal"
   }
 ]
