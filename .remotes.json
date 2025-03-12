@@ -141,6 +141,13 @@
   {
     "package": "tern",
     "url": "https://github.com/insightsengineering/tern",
+    "via": ["autoslider.core"],
+    "branch": "main",
+    "from": "autoslider.core"
+  },
+  {
+    "package": "tern",
+    "url": "https://github.com/insightsengineering/tern",
     "via": ["chevron"],
     "branch": "main",
     "from": "chevron"
