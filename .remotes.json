@@ -58,6 +58,12 @@
   {
     "package": "teal",
     "url": "https://github.com/insightsengineering/teal",
+    "via": ["teal.goshawk"],
+    "from": "teal.goshawk"
+  },
+  {
+    "package": "teal",
+    "url": "https://github.com/insightsengineering/teal",
     "via": ["teal.modules.clinical"],
     "branch": "main",
     "from": "teal.modules.clinical"
@@ -85,6 +91,13 @@
   {
     "package": "teal.reporter",
     "url": "https://github.com/insightsengineering/teal.reporter",
+    "via": ["teal.goshawk", "teal"],
+    "branch": "main",
+    "from": "teal.goshawk"
+  },
+  {
+    "package": "teal.reporter",
+    "url": "https://github.com/insightsengineering/teal.reporter",
     "via": ["teal.modules.clinical"],
     "branch": "main",
     "from": "teal.modules.clinical"
@@ -106,6 +119,13 @@
   {
     "package": "teal.slice",
     "url": "https://github.com/insightsengineering/teal.slice",
+    "via": ["teal.goshawk", "teal"],
+    "branch": "main",
+    "from": "teal.goshawk"
+  },
+  {
+    "package": "teal.slice",
+    "url": "https://github.com/insightsengineering/teal.slice",
     "via": ["teal.modules.clinical", "teal"],
     "branch": "main",
     "from": "teal.modules.clinical"
@@ -123,6 +143,13 @@
     "via": ["teal"],
     "branch": "main",
     "from": "teal"
+  },
+  {
+    "package": "teal.widgets",
+    "url": "https://github.com/insightsengineering/teal.widgets",
+    "via": ["teal.goshawk", "teal"],
+    "branch": "main",
+    "from": "teal.goshawk"
   },
   {
     "package": "teal.widgets",
