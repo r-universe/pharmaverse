@@ -36,10 +36,6 @@
 [submodule "autoslider.core"]
 	path = autoslider.core
 	url = https://github.com/insightsengineering/autoslider.core
-[submodule "broom"]
-	path = broom
-	url = https://github.com/tidymodels/broom
-	registered = false
 [submodule "cards"]
 	path = cards
 	url = https://github.com/insightsengineering/cards
