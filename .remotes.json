@@ -13,13 +13,6 @@
     "from": "rlistings"
   },
   {
-    "package": "formatters",
-    "url": "https://github.com/insightsengineering/formatters",
-    "via": ["rtables"],
-    "branch": "main",
-    "from": "rtables"
-  },
-  {
     "package": "goshawk",
     "url": "https://github.com/insightsengineering/goshawk",
     "via": ["teal.goshawk"],
