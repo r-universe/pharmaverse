@@ -6,13 +6,6 @@
     "from": "admiral"
   },
   {
-    "package": "formatters",
-    "url": "https://github.com/insightsengineering/formatters",
-    "via": ["rlistings"],
-    "branch": "main",
-    "from": "rlistings"
-  },
-  {
     "package": "goshawk",
     "url": "https://github.com/insightsengineering/goshawk",
     "via": ["teal.goshawk"],
