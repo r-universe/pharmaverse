@@ -177,13 +177,6 @@
   {
     "package": "tern",
     "url": "https://github.com/insightsengineering/tern",
-    "via": ["autoslider.core"],
-    "branch": "main",
-    "from": "autoslider.core"
-  },
-  {
-    "package": "tern",
-    "url": "https://github.com/insightsengineering/tern",
     "via": ["teal.modules.clinical"],
     "branch": "main",
     "from": "teal.modules.clinical"
