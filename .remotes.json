@@ -6,6 +6,13 @@
     "from": "admiral"
   },
   {
+    "package": "ellmer",
+    "url": "https://github.com/r-world-devs/ellmer",
+    "via": ["autoslider.core"],
+    "branch": "add_portkey_support",
+    "from": "autoslider.core"
+  },
+  {
     "package": "goshawk",
     "url": "https://github.com/insightsengineering/goshawk",
     "via": ["teal.goshawk"],
@@ -28,6 +35,12 @@
     "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["scda"],
     "from": "scda"
+  },
+  {
+    "package": "shinychat",
+    "url": "https://github.com/posit-dev/shinychat",
+    "via": ["autoslider.core", "ellmer"],
+    "from": "autoslider.core"
   },
   {
     "package": "teal",
