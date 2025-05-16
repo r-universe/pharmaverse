@@ -62,8 +62,8 @@
 	url = https://github.com/insightsengineering/dunlin
 [submodule "ellmer"]
 	path = ellmer
-	url = https://github.com/r-world-devs/ellmer
-	branch = add_portkey_support
+	url = https://github.com/tidyverse/ellmer
+	branch = main
 	registered = false
 [submodule "envsetup"]
 	path = envsetup

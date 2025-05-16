@@ -7,9 +7,9 @@
   },
   {
     "package": "ellmer",
-    "url": "https://github.com/r-world-devs/ellmer",
+    "url": "https://github.com/tidyverse/ellmer",
     "via": ["autoslider.core"],
-    "branch": "add_portkey_support",
+    "branch": "main",
     "from": "autoslider.core"
   },
   {
