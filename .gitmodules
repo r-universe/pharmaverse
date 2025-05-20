@@ -60,11 +60,6 @@
 [submodule "dunlin"]
 	path = dunlin
 	url = https://github.com/insightsengineering/dunlin
-[submodule "ellmer"]
-	path = ellmer
-	url = https://github.com/tidyverse/ellmer
-	branch = main
-	registered = false
 [submodule "envsetup"]
 	path = envsetup
 	url = https://github.com/pharmaverse/envsetup
@@ -177,10 +172,6 @@
 [submodule "sdtmchecks"]
 	path = sdtmchecks
 	url = https://github.com/pharmaverse/sdtmchecks
-[submodule "shinychat"]
-	path = shinychat
-	url = https://github.com/posit-dev/shinychat
-	registered = false
 [submodule "simIDM"]
 	path = simIDM
 	url = https://github.com/insightsengineering/simIDM
