@@ -71,6 +71,13 @@
     "from": "teal.modules.hermes"
   },
   {
+    "package": "teal.code",
+    "url": "https://github.com/insightsengineering/teal.code",
+    "via": ["teal.data"],
+    "branch": "main",
+    "from": "teal.data"
+  },
+  {
     "package": "teal.reporter",
     "url": "https://github.com/insightsengineering/teal.reporter",
     "via": ["teal"],
