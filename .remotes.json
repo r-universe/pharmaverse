@@ -85,6 +85,13 @@
     "from": "teal.modules.general"
   },
   {
+    "package": "teal.logger",
+    "url": "https://github.com/insightsengineering/teal.logger",
+    "via": ["teal.osprey"],
+    "branch": "main",
+    "from": "teal.osprey"
+  },
+  {
     "package": "teal.reporter",
     "url": "https://github.com/insightsengineering/teal.reporter",
     "via": ["teal"],
