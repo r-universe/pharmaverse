@@ -31,13 +31,6 @@
     "from": "chevron"
   },
   {
-    "package": "rtables",
-    "url": "https://github.com/insightsengineering/rtables",
-    "via": ["tern"],
-    "branch": "main",
-    "from": "tern"
-  },
-  {
     "package": "scda.2022",
     "url": "https://github.com/insightsengineering/scda.2022",
     "via": ["scda"],
