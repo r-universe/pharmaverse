@@ -20,6 +20,10 @@
 [submodule "admiral.test"]
 	path = admiral.test
 	url = https://github.com/pharmaverse/admiral.test
+[submodule "admiraldev"]
+	path = admiraldev
+	url = https://github.com/pharmaverse/admiraldev
+	registered = false
 [submodule "admiralonco"]
 	path = admiralonco
 	url = https://github.com/pharmaverse/admiralonco

@@ -1,5 +1,11 @@
 [
   {
+    "package": "admiraldev",
+    "url": "https://github.com/pharmaverse/admiraldev",
+    "via": ["admiral"],
+    "from": "admiral"
+  },
+  {
     "package": "cards",
     "url": "https://github.com/insightsengineering/cards",
     "via": ["cardx"],
