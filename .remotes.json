@@ -12,6 +12,12 @@
     "from": "teal.goshawk"
   },
   {
+    "package": "metacore",
+    "url": "https://github.com/atorus-research/metacore",
+    "via": ["metatools"],
+    "from": "metatools"
+  },
+  {
     "package": "osprey",
     "url": "https://github.com/insightsengineering/osprey",
     "via": ["teal.osprey"],
