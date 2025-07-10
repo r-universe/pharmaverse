@@ -79,13 +79,6 @@
   {
     "package": "teal.logger",
     "url": "https://github.com/insightsengineering/teal.logger",
-    "via": ["teal.goshawk", "teal"],
-    "branch": "main",
-    "from": "teal.goshawk"
-  },
-  {
-    "package": "teal.logger",
-    "url": "https://github.com/insightsengineering/teal.logger",
     "via": ["teal.modules.clinical", "teal"],
     "branch": "main",
     "from": "teal.modules.clinical"
