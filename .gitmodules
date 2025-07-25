@@ -75,6 +75,10 @@
 [submodule "gemtcPlus"]
 	path = gemtcPlus
 	url = https://github.com/Roche/gemtcPlus
+[submodule "ggplot2"]
+	path = ggplot2
+	url = https://github.com/tidyverse/ggplot2
+	registered = false
 [submodule "ggplot2.utils"]
 	path = ggplot2.utils
 	url = https://github.com/insightsengineering/ggplot2.utils
