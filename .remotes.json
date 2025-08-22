@@ -45,13 +45,6 @@
   {
     "package": "teal",
     "url": "https://github.com/insightsengineering/teal",
-    "via": ["teal.modules.clinical"],
-    "branch": "main",
-    "from": "teal.modules.clinical"
-  },
-  {
-    "package": "teal",
-    "url": "https://github.com/insightsengineering/teal",
     "via": ["teal.modules.hermes"],
     "branch": "main",
     "from": "teal.modules.hermes"
@@ -59,13 +52,6 @@
   {
     "package": "teal.reporter",
     "url": "https://github.com/insightsengineering/teal.reporter",
-    "via": ["teal.modules.clinical", "teal"],
-    "branch": "main",
-    "from": "teal.modules.clinical"
-  },
-  {
-    "package": "teal.reporter",
-    "url": "https://github.com/insightsengineering/teal.reporter",
     "via": ["teal.modules.hermes", "teal"],
     "branch": "main",
     "from": "teal.modules.hermes"
@@ -73,23 +59,9 @@
   {
     "package": "teal.slice",
     "url": "https://github.com/insightsengineering/teal.slice",
-    "via": ["teal.modules.clinical", "teal"],
-    "branch": "main",
-    "from": "teal.modules.clinical"
-  },
-  {
-    "package": "teal.slice",
-    "url": "https://github.com/insightsengineering/teal.slice",
     "via": ["teal.modules.hermes", "teal"],
     "branch": "main",
     "from": "teal.modules.hermes"
-  },
-  {
-    "package": "teal.widgets",
-    "url": "https://github.com/insightsengineering/teal.widgets",
-    "via": ["teal.modules.clinical"],
-    "branch": "main",
-    "from": "teal.modules.clinical"
   },
   {
     "package": "teal.widgets",
@@ -104,12 +76,5 @@
     "via": ["chevron"],
     "branch": "main",
     "from": "chevron"
-  },
-  {
-    "package": "tern",
-    "url": "https://github.com/insightsengineering/tern",
-    "via": ["teal.modules.clinical"],
-    "branch": "main",
-    "from": "teal.modules.clinical"
   }
 ]
