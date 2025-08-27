@@ -1,11 +1,5 @@
 [
   {
-    "package": "cards",
-    "url": "https://github.com/insightsengineering/cards",
-    "via": ["cardx"],
-    "from": "cardx"
-  },
-  {
     "package": "ggplot2",
     "url": "https://github.com/tidyverse/ggplot2",
     "via": ["ggsurvfit"],
