@@ -1,11 +1,5 @@
 [
   {
-    "package": "ggplot2",
-    "url": "https://github.com/tidyverse/ggplot2",
-    "via": ["ggsurvfit"],
-    "from": "ggsurvfit"
-  },
-  {
     "package": "goshawk",
     "url": "https://github.com/insightsengineering/goshawk",
     "via": ["teal.goshawk"],
