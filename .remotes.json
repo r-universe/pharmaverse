@@ -65,7 +65,7 @@
     "package": "teal.reporter",
     "url": "https://github.com/insightsengineering/teal.reporter",
     "via": ["teal"],
-    "branch": "1534-show_r_code@main",
+    "branch": "main",
     "from": "teal"
   },
   {
@@ -109,13 +109,6 @@
     "via": ["teal.modules.hermes", "teal"],
     "branch": "main",
     "from": "teal.modules.hermes"
-  },
-  {
-    "package": "teal.widgets",
-    "url": "https://github.com/insightsengineering/teal.widgets",
-    "via": ["teal"],
-    "branch": "1534-show_r_code@main",
-    "from": "teal"
   },
   {
     "package": "teal.widgets",
