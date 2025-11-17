@@ -64,13 +64,6 @@
   {
     "package": "teal.reporter",
     "url": "https://github.com/insightsengineering/teal.reporter",
-    "via": ["teal"],
-    "branch": "main",
-    "from": "teal"
-  },
-  {
-    "package": "teal.reporter",
-    "url": "https://github.com/insightsengineering/teal.reporter",
     "via": ["teal.goshawk", "teal"],
     "branch": "main",
     "from": "teal.goshawk"
