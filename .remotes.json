@@ -12,6 +12,13 @@
     "from": "teal.osprey"
   },
   {
+    "package": "rbmi",
+    "url": "https://github.com/insightsengineering/rbmi",
+    "via": ["tern.rbmi"],
+    "branch": "main",
+    "from": "tern.rbmi"
+  },
+  {
     "package": "riskmetric",
     "url": "https://github.com/pharmaR/riskmetric",
     "via": ["riskassessment"],
