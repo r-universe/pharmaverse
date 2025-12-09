@@ -1,5 +1,11 @@
 [
   {
+    "package": "formatters",
+    "url": "https://github.com/insightsengineering/formatters",
+    "via": ["teal.widgets"],
+    "from": "teal.widgets"
+  },
+  {
     "package": "goshawk",
     "url": "https://github.com/insightsengineering/goshawk",
     "via": ["teal.goshawk"],
@@ -30,6 +36,12 @@
     "via": ["chevron"],
     "branch": "main",
     "from": "chevron"
+  },
+  {
+    "package": "rtables",
+    "url": "https://github.com/insightsengineering/rtables",
+    "via": ["teal.widgets"],
+    "from": "teal.widgets"
   },
   {
     "package": "scda.2022",
