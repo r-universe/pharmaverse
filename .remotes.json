@@ -64,6 +64,12 @@
   {
     "package": "teal",
     "url": "https://github.com/insightsengineering/teal",
+    "via": ["teal.modules.clinical"],
+    "from": "teal.modules.clinical"
+  },
+  {
+    "package": "teal",
+    "url": "https://github.com/insightsengineering/teal",
     "via": ["teal.modules.general"],
     "from": "teal.modules.general"
   },
@@ -73,6 +79,12 @@
     "via": ["teal.modules.hermes"],
     "branch": "main",
     "from": "teal.modules.hermes"
+  },
+  {
+    "package": "teal.reporter",
+    "url": "https://github.com/insightsengineering/teal.reporter",
+    "via": ["teal.modules.clinical"],
+    "from": "teal.modules.clinical"
   },
   {
     "package": "teal.widgets",
