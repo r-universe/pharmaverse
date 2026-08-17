@@ -14,30 +14,48 @@
 [submodule "Tplyr"]
 	path = Tplyr
 	url = https://github.com/atorus-research/Tplyr
+[submodule "aNCA"]
+	path = aNCA
+	url = https://github.com/pharmaverse/anca
 [submodule "admiral"]
 	path = admiral
 	url = https://github.com/pharmaverse/admiral
 [submodule "admiral.test"]
 	path = admiral.test
 	url = https://github.com/pharmaverse/admiral.test
+[submodule "admiraldev"]
+	path = admiraldev
+	url = https://github.com/pharmaverse/admiraldev
+[submodule "admiralmetabolic"]
+	path = admiralmetabolic
+	url = https://github.com/pharmaverse/admiralmetabolic
+[submodule "admiralneuro"]
+	path = admiralneuro
+	url = https://github.com/pharmaverse/admiralneuro
 [submodule "admiralonco"]
 	path = admiralonco
 	url = https://github.com/pharmaverse/admiralonco
 [submodule "admiralophtha"]
 	path = admiralophtha
 	url = https://github.com/pharmaverse/admiralophtha
+[submodule "admiralpeds"]
+	path = admiralpeds
+	url = https://github.com/pharmaverse/admiralpeds
 [submodule "admiralvaccine"]
 	path = admiralvaccine
 	url = https://github.com/pharmaverse/admiralvaccine
 [submodule "autoslider.core"]
 	path = autoslider.core
 	url = https://github.com/insightsengineering/autoslider.core
+[submodule "cardinalfda"]
+	path = cardinalfda
+	url = https://github.com/pharmaverse/cardinal
 [submodule "cards"]
 	path = cards
-	url = https://github.com/insightsengineering/cards
+	url = https://github.com/pharmaverse/cards
 [submodule "cardx"]
 	path = cardx
-	url = https://github.com/insightsengineering/cardx
+	url = https://github.com/pharmaverse/cardx
 [submodule "chevron"]
 	path = chevron
 	url = https://github.com/insightsengineering/chevron
@@ -80,12 +98,18 @@
 [submodule "goshawk"]
 	path = goshawk
 	url = https://github.com/insightsengineering/goshawk
+[submodule "gridify"]
+	path = gridify
+	url = https://github.com/pharmaverse/gridify
 [submodule "hermes"]
 	path = hermes
 	url = https://github.com/insightsengineering/hermes
 [submodule "logrx"]
 	path = logrx
 	url = https://github.com/pharmaverse/logrx
+[submodule "logrxaddin"]
+	path = logrxaddin
+	url = https://github.com/pharmaverse/logrxaddin
 [submodule "metacore"]
 	path = metacore
 	url = https://github.com/atorus-research/metacore
@@ -110,9 +134,15 @@
 [submodule "pharmaRTF"]
 	path = pharmaRTF
 	url = https://github.com/atorus-research/pharmaRTF
+[submodule "pharmaverse"]
+	path = pharmaverse
+	url = https://github.com/pharmaverse/pharmaverse-pkg
 [submodule "pharmaverseadam"]
 	path = pharmaverseadam
 	url = https://github.com/pharmaverse/pharmaverseadam
+[submodule "pharmaverseraw"]
+	path = pharmaverseraw
+	url = https://github.com/pharmaverse/pharmaverseraw
 [submodule "pharmaversesdtm"]
 	path = pharmaversesdtm
 	url = https://github.com/pharmaverse/pharmaversesdtm
@@ -134,6 +164,9 @@
 [submodule "respectables"]
 	path = respectables
 	url = https://github.com/Roche/respectables
+[submodule "risk.assessr"]
+	path = risk.assessr
+	url = https://github.com/pharmaverse/risk.assessr
 [submodule "riskassessment"]
 	path = riskassessment
 	url = https://github.com/pharmaR/riskassessment
@@ -161,6 +194,9 @@
 [submodule "scda.2022"]
 	path = scda.2022
 	url = https://github.com/insightsengineering/scda.2022
+[submodule "sdtm.oak"]
+	path = sdtm.oak
+	url = https://github.com/pharmaverse/sdtm.oak
 [submodule "sdtmchecks"]
 	path = sdtmchecks
 	url = https://github.com/pharmaverse/sdtmchecks
@@ -227,6 +263,9 @@
 [submodule "tern.rbmi"]
 	path = tern.rbmi
 	url = https://github.com/insightsengineering/tern.rbmi
+[submodule "test.assessr"]
+	path = test.assessr
+	url = https://github.com/pharmaverse/test.assessr
 [submodule "tfrmt"]
 	path = tfrmt
 	url = https://github.com/GSK-Biostatistics/tfrmt
