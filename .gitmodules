@@ -20,12 +20,12 @@
 [submodule "admiral"]
 	path = admiral
 	url = https://github.com/pharmaverse/admiral
-[submodule "admiral.test"]
-	path = admiral.test
-	url = https://github.com/pharmaverse/admiral.test
 [submodule "admiraldev"]
 	path = admiraldev
 	url = https://github.com/pharmaverse/admiraldev
+[submodule "admiraldiscovery"]
+	path = admiraldiscovery
+	url = https://github.com/pharmaverse/admiraldiscovery
 [submodule "admiralmetabolic"]
 	path = admiralmetabolic
 	url = https://github.com/pharmaverse/admiralmetabolic
@@ -46,7 +46,7 @@
 	url = https://github.com/pharmaverse/admiralvaccine
 [submodule "autoslider.core"]
 	path = autoslider.core
-	url = https://github.com/insightsengineering/autoslider.core
+	url = https://github.com/pharmaverse/autoslider.core
 [submodule "cardinalfda"]
 	path = cardinalfda
 	url = https://github.com/pharmaverse/cardinal
@@ -64,7 +64,7 @@
 	url = https://github.com/Genentech/covtracer
 [submodule "crmPack"]
 	path = crmPack
-	url = https://github.com/Roche/crmPack
+	url = https://github.com/openpharma/crmPack
 [submodule "datacutr"]
 	path = datacutr
 	url = https://github.com/pharmaverse/datacutr
@@ -85,7 +85,7 @@
 	url = https://github.com/Roche/flexsurvPlus
 [submodule "formatters"]
 	path = formatters
-	url = https://github.com/insightsengineering/formatters
+	url = https://github.com/pharmaverse/formatters
 [submodule "gemtcPlus"]
 	path = gemtcPlus
 	url = https://github.com/Roche/gemtcPlus
@@ -146,6 +146,9 @@
 [submodule "pharmaversesdtm"]
 	path = pharmaversesdtm
 	url = https://github.com/pharmaverse/pharmaversesdtm
+[submodule "pmxdchk"]
+	path = pmxdchk
+	url = https://github.com/pharmaverse/pmxdchk
 [submodule "psborrow"]
 	path = psborrow
 	url = https://github.com/Genentech/psborrow
@@ -160,7 +163,7 @@
 	url = https://github.com/insightsengineering/random.cdisc.data
 [submodule "rbmi"]
 	path = rbmi
-	url = https://github.com/insightsengineering/rbmi
+	url = https://github.com/openpharma/rbmi
 [submodule "respectables"]
 	path = respectables
 	url = https://github.com/Roche/respectables
@@ -172,7 +175,7 @@
 	url = https://github.com/pharmaR/riskassessment
 [submodule "rlistings"]
 	path = rlistings
-	url = https://github.com/insightsengineering/rlistings
+	url = https://github.com/pharmaverse/rlistings
 [submodule "roxy.shinylive"]
 	path = roxy.shinylive
 	url = https://github.com/insightsengineering/roxy.shinylive
@@ -181,19 +184,10 @@
 	url = https://github.com/Roche/rpsftmPlus
 [submodule "rtables"]
 	path = rtables
-	url = https://github.com/insightsengineering/rtables
+	url = https://github.com/pharmaverse/rtables
 [submodule "rtables.officer"]
 	path = rtables.officer
 	url = https://github.com/insightsengineering/rtables.officer
-[submodule "scda"]
-	path = scda
-	url = https://github.com/insightsengineering/scda
-[submodule "scda.2021"]
-	path = scda.2021
-	url = https://github.com/insightsengineering/scda.2021
-[submodule "scda.2022"]
-	path = scda.2022
-	url = https://github.com/insightsengineering/scda.2022
 [submodule "sdtm.oak"]
 	path = sdtm.oak
 	url = https://github.com/pharmaverse/sdtm.oak
@@ -214,19 +208,19 @@
 	url = https://github.com/openpharma/syntrial
 [submodule "teal"]
 	path = teal
-	url = https://github.com/insightsengineering/teal
+	url = https://github.com/pharmaverse/teal
 [submodule "teal.code"]
 	path = teal.code
-	url = https://github.com/insightsengineering/teal.code
+	url = https://github.com/pharmaverse/teal.code
 [submodule "teal.data"]
 	path = teal.data
-	url = https://github.com/insightsengineering/teal.data
+	url = https://github.com/pharmaverse/teal.data
 [submodule "teal.goshawk"]
 	path = teal.goshawk
 	url = https://github.com/insightsengineering/teal.goshawk
 [submodule "teal.logger"]
 	path = teal.logger
-	url = https://github.com/insightsengineering/teal.logger
+	url = https://github.com/pharmaverse/teal.logger
 [submodule "teal.modules.clinical"]
 	path = teal.modules.clinical
 	url = https://github.com/insightsengineering/teal.modules.clinical
@@ -239,21 +233,24 @@
 [submodule "teal.osprey"]
 	path = teal.osprey
 	url = https://github.com/insightsengineering/teal.osprey
+[submodule "teal.picks"]
+	path = teal.picks
+	url = https://github.com/pharmaverse/teal.picks
 [submodule "teal.reporter"]
 	path = teal.reporter
-	url = https://github.com/insightsengineering/teal.reporter
+	url = https://github.com/pharmaverse/teal.reporter
 [submodule "teal.slice"]
 	path = teal.slice
-	url = https://github.com/insightsengineering/teal.slice
+	url = https://github.com/pharmaverse/teal.slice
 [submodule "teal.transform"]
 	path = teal.transform
-	url = https://github.com/insightsengineering/teal.transform
+	url = https://github.com/pharmaverse/teal.transform
 [submodule "teal.widgets"]
 	path = teal.widgets
-	url = https://github.com/insightsengineering/teal.widgets
+	url = https://github.com/pharmaverse/teal.widgets
 [submodule "tern"]
 	path = tern
-	url = https://github.com/insightsengineering/tern
+	url = https://github.com/pharmaverse/tern
 [submodule "tern.gee"]
 	path = tern.gee
 	url = https://github.com/insightsengineering/tern.gee
